@@ -1,0 +1,24 @@
+#Center Page Object
+
+-> By ID
+homeScreen=com.home.button.bottom:id/button_height_layout
+actionOnClickBtn=click_subtitle_textview
+centerIcon=bb_bottom_bar_icon
+notificationCheckBox=notification_checkbox
+seekBar=seekbar
+seekBarValue=vibration_strength_subtitle_textview
+okBtn=ok_textview
+vibrationStrengthBtn=vibration_strength_layout
+
+--> By Class
+radioList=android.widget.CheckedTextView
+
+--> By Text
+showNotificationLbl=Show Notification
+vibrationStrengthLbl=Vibration strength
+
+
+
+
+
+
