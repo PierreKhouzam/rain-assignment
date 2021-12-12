@@ -1,6 +1,7 @@
 package com.myapplication.utilities;
 
 import com.myapplication.engine.BaseTest;
+import com.relevantcodes.extentreports.LogStatus;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
@@ -18,23 +19,31 @@ public class TestListener extends BaseTest implements ITestListener {
 
     public void onTestStart(ITestResult result) {
         Log.info(("*** Running test method " + result.getMethod().getMethodName() + " ***"));
+        VideoRecorder.startRecording();
     }
 
     public void onTestSuccess(ITestResult result) {
         Log.info("*** Executed " + result.getMethod().getMethodName() + " test successfully ***");
+        ScreenshotRobot.takeScreenShot();
+        VideoRecorder.stopRecording("Test" + result.getMethod().getPriority() + ".mp4");
     }
 
     public void onTestFailure(ITestResult result) {
-        Log.error("*** Test execution " + result.getMethod().getMethodName() + " failed ***");
+        Log.info("*** Test execution of " + result.getMethod().getMethodName() + " failed ***");
+        ExtentTestManager.getTest().log(LogStatus.FAIL, result.getThrowable().getMessage());
+        ScreenshotRobot.takeScreenShot();
+        VideoRecorder.stopRecording("Test" + result.getMethod().getPriority() + ".mp4");
     }
 
 
     public void onTestSkipped(ITestResult result) {
         Log.info("*** Test " + result.getMethod().getMethodName() + " skipped ***");
+        VideoRecorder.stopRecording(result.getMethod().getMethodName() + ".mp4");
     }
 
     public void onTestFailedButWithinSuccessPercentage(ITestResult result) {
         Log.info("*** Test failed but within percentage % " + result.getMethod().getMethodName() + " ***");
+        VideoRecorder.stopRecording(result.getMethod().getMethodName() + ".mp4");
     }
 
     public void onFinish(ITestContext context) {

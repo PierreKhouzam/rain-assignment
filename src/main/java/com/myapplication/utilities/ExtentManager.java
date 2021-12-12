@@ -9,8 +9,7 @@ public class ExtentManager {
     public synchronized static ExtentReports getReporter() {
         if (extent == null) {
             // set HTML report file location
-            extent = new ExtentReports(Constants.workingDir
-                    + "/extentreports/ExtentReportResults.html", true);
+            extent = new ExtentReports(Constants.workingDir + "/extentreports/ExtentReportResults.html", true);
         }
         return extent;
     }

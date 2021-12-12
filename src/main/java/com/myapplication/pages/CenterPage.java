@@ -1,15 +1,10 @@
 package com.myapplication.pages;
 
 import com.myapplication.engine.BasePage;
-import io.appium.java_client.AppiumDriver;
 
 import java.util.List;
 
 public class CenterPage extends BasePage {
-
-    public CenterPage(AppiumDriver<?> driver) {
-        super(driver);
-    }
 
     public CenterPage touchAnyWhere() {
         waitVisibility("homeScreen");
@@ -63,14 +58,27 @@ public class CenterPage extends BasePage {
         return this;
     }
 
-    public CenterPage confirmVibrationStrength() {
+    public void confirmVibrationStrength() {
         waitVisibility("okBtn");
         click("okBtn");
-        return this;
     }
 
     public String getSeekBarValue() {
         waitVisibility("seekBarValue");
         return getAttribute("seekBarValue", "text");
+    }
+
+    public CenterPage pressOnButtonColor() {
+        waitVisibility("ButtonColorBtn");
+        click("ButtonColorBtn");
+        return this;
+    }
+
+    public void setVioletColor() {
+        clickByXpath("violetColor");
+    }
+
+    public Boolean violetColorIsDisplayed() {
+        return isDisplayed("ButtonColorBtn");
     }
 }

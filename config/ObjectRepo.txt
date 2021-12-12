@@ -9,6 +9,7 @@ seekBar=seekbar
 seekBarValue=vibration_strength_subtitle_textview
 okBtn=ok_textview
 vibrationStrengthBtn=vibration_strength_layout
+ButtonColorBtn=color_selected_imageview
 
 --> By Class
 radioList=android.widget.CheckedTextView
@@ -16,6 +17,9 @@ radioList=android.widget.CheckedTextView
 --> By Text
 showNotificationLbl=Show Notification
 vibrationStrengthLbl=Vibration strength
+
+--> By Xpath
+violetColor=/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.support.v7.widget.LinearLayoutCompat/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.LinearLayout[1]/android.widget.FrameLayout[4]
 
 
 

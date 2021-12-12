@@ -1141,3 +1141,1378 @@ Session ID: 689983a5-0129-4690-b9f4-9ccf420b35a1
 2021-12-10 06:49:29 INFO  Log:47 - Stopped recording and clip is downloaded
 2021-12-10 06:49:29 INFO  Log:47 - *** Executed fourthTest test successfully ***
 2021-12-10 06:49:33 INFO  Log:47 - *** Test Suite Rain ending ***
+2021-12-10 16:27:22 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-10 16:27:28 INFO  Log:47 - *** Test firstTest skipped ***
+2021-12-10 16:27:28 INFO  Log:47 - *** Test secondTest skipped ***
+2021-12-10 16:27:28 INFO  Log:47 - *** Test thirdTest skipped ***
+2021-12-10 16:27:28 INFO  Log:47 - *** Test fourthTest skipped ***
+2021-12-10 16:27:28 INFO  Log:47 - *** Test Suite Rain ending ***
+2021-12-10 16:32:52 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-10 16:33:17 INFO  Log:47 - *** Test firstTest skipped ***
+2021-12-10 16:33:17 INFO  Log:47 - *** Test secondTest skipped ***
+2021-12-10 16:33:17 INFO  Log:47 - *** Test thirdTest skipped ***
+2021-12-10 16:33:17 INFO  Log:47 - *** Test fourthTest skipped ***
+2021-12-10 16:33:17 INFO  Log:47 - *** Test Suite Rain ending ***
+2021-12-10 16:36:21 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-10 16:36:43 INFO  Log:47 - *** Test firstTest skipped ***
+2021-12-10 16:36:43 INFO  Log:47 - *** Test secondTest skipped ***
+2021-12-10 16:36:43 INFO  Log:47 - *** Test thirdTest skipped ***
+2021-12-10 16:36:43 INFO  Log:47 - *** Test fourthTest skipped ***
+2021-12-10 16:36:43 INFO  Log:47 - *** Test Suite Rain ending ***
+2021-12-11 02:31:54 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-11 02:32:17 INFO  Log:47 - *** Test firstTest skipped ***
+2021-12-11 02:32:17 INFO  Log:47 - *** Test secondTest skipped ***
+2021-12-11 02:32:17 INFO  Log:47 - *** Test thirdTest skipped ***
+2021-12-11 02:32:17 INFO  Log:47 - *** Test fourthTest skipped ***
+2021-12-11 02:32:17 INFO  Log:47 - *** Test Suite Rain ending ***
+2021-12-11 03:06:06 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-11 03:06:10 INFO  Log:47 - *** Test firstTest skipped ***
+2021-12-11 03:06:10 INFO  Log:47 - *** Test secondTest skipped ***
+2021-12-11 03:06:10 INFO  Log:47 - *** Test thirdTest skipped ***
+2021-12-11 03:06:10 INFO  Log:47 - *** Test fourthTest skipped ***
+2021-12-11 03:06:10 INFO  Log:47 - *** Test Suite Rain ending ***
+2021-12-11 03:06:59 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-11 03:07:02 INFO  Log:47 - *** Test firstTest skipped ***
+2021-12-11 03:07:02 INFO  Log:47 - *** Test secondTest skipped ***
+2021-12-11 03:07:02 INFO  Log:47 - *** Test thirdTest skipped ***
+2021-12-11 03:07:02 INFO  Log:47 - *** Test fourthTest skipped ***
+2021-12-11 03:07:02 INFO  Log:47 - *** Test Suite Rain ending ***
+2021-12-11 05:01:53 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-11 05:03:10 INFO  Log:47 - Object repo loaded
+2021-12-11 05:03:14 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-11 05:09:24 INFO  Log:47 - Object repo loaded
+2021-12-11 05:12:28 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-11 05:12:51 INFO  Log:47 - Object repo loaded
+2021-12-11 05:12:51 INFO  Log:47 - *** Running test method firstTest ***
+2021-12-11 05:12:51 INFO  Log:15 - ****************************************************************************************
+2021-12-11 05:12:51 INFO  Log:17 - ****************************************************************************************
+2021-12-11 05:12:51 INFO  Log:19 - $$$$$$$$$$$$$$$$$$$$$                 Complete all the steps when launching the app for the first time and navigate to the Dashboard       $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-12-11 05:12:51 INFO  Log:21 - ****************************************************************************************
+2021-12-11 05:12:51 INFO  Log:23 - ****************************************************************************************
+2021-12-11 05:12:53 INFO  Log:47 - Started recording
+2021-12-11 05:12:53 INFO  Log:47 - Waiting visibility of element for object: homeScreen
+2021-12-11 05:12:53 INFO  Log:47 - Clicking on element for object: homeScreen
+2021-12-11 05:12:53 INFO  Log:47 - Element is displayed for object: centerIcon
+2021-12-11 05:12:53 INFO  Log:47 - Element is displayed for object: centerIcon
+2021-12-11 05:12:55 INFO  Log:47 - Stopped recording and clip is downloaded
+2021-12-11 05:12:55 INFO  Log:47 - *** Executed firstTest test successfully ***
+2021-12-11 05:12:59 INFO  Log:47 - *** Running test method secondTest ***
+2021-12-11 05:12:59 INFO  Log:15 - ****************************************************************************************
+2021-12-11 05:12:59 INFO  Log:17 - ****************************************************************************************
+2021-12-11 05:12:59 INFO  Log:19 - $$$$$$$$$$$$$$$$$$$$$                 Select Action on click under Actions and print all the elements in the radio selection list view       $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-12-11 05:12:59 INFO  Log:21 - ****************************************************************************************
+2021-12-11 05:12:59 INFO  Log:23 - ****************************************************************************************
+2021-12-11 05:13:00 INFO  Log:47 - Started recording
+2021-12-11 05:13:00 INFO  Log:47 - Waiting visibility of element for object: homeScreen
+2021-12-11 05:13:01 INFO  Log:47 - Clicking on element for object: homeScreen
+2021-12-11 05:13:01 INFO  Log:47 - Waiting visibility of element for object: actionOnClickBtn
+2021-12-11 05:13:01 INFO  Log:47 - Clicking on element for object: actionOnClickBtn
+2021-12-11 05:13:02 INFO  Log:47 - Getting list of elements for object: radioList
+2021-12-11 05:13:02 INFO  Log:47 - Reading list of elements, list is: [None, Home, Recent applications, Pull down notification, Device settings, Selected application, [Experimental] Back, [PRO] Screenshot, [PRO] Lock the screen, [PRO] Quick settings, [PRO] Power menu]
+2021-12-11 05:13:03 INFO  Log:47 - Stopped recording and clip is downloaded
+2021-12-11 05:13:03 INFO  Log:47 - *** Executed secondTest test successfully ***
+2021-12-11 05:13:08 INFO  Log:47 - *** Running test method thirdTest ***
+2021-12-11 05:13:08 INFO  Log:15 - ****************************************************************************************
+2021-12-11 05:13:08 INFO  Log:17 - ****************************************************************************************
+2021-12-11 05:13:08 INFO  Log:19 - $$$$$$$$$$$$$$$$$$$$$                 Scroll down to the bottom and uncheck the show notification checkbox.       $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-12-11 05:13:08 INFO  Log:21 - ****************************************************************************************
+2021-12-11 05:13:08 INFO  Log:23 - ****************************************************************************************
+2021-12-11 05:13:09 INFO  Log:47 - Started recording
+2021-12-11 05:13:09 INFO  Log:47 - Waiting visibility of element for object: homeScreen
+2021-12-11 05:13:09 INFO  Log:47 - Clicking on element for object: homeScreen
+2021-12-11 05:13:12 INFO  Log:47 - Scrolling till element is visible for object: showNotificationLbl
+2021-12-11 05:13:12 INFO  Log:47 - Waiting visibility of element for object: notificationCheckBox
+2021-12-11 05:13:13 INFO  Log:47 - Clicking on element for object: notificationCheckBox
+2021-12-11 05:13:13 INFO  Log:47 - Getting selected attribute for object: notificationCheckBox
+2021-12-11 05:13:15 INFO  Log:47 - Stopped recording and clip is downloaded
+2021-12-11 05:13:15 INFO  Log:47 - *** Executed thirdTest test successfully ***
+2021-12-11 05:13:19 INFO  Log:47 - *** Running test method fourthTest ***
+2021-12-11 05:13:19 INFO  Log:15 - ****************************************************************************************
+2021-12-11 05:13:19 INFO  Log:17 - ****************************************************************************************
+2021-12-11 05:13:19 INFO  Log:19 - $$$$$$$$$$$$$$$$$$$$$                 Select Vibration Strength under behavior and set the vibration strength to 100       $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-12-11 05:13:19 INFO  Log:21 - ****************************************************************************************
+2021-12-11 05:13:19 INFO  Log:23 - ****************************************************************************************
+2021-12-11 05:13:20 INFO  Log:47 - Started recording
+2021-12-11 05:13:21 INFO  Log:47 - Waiting visibility of element for object: homeScreen
+2021-12-11 05:13:21 INFO  Log:47 - Clicking on element for object: homeScreen
+2021-12-11 05:13:24 INFO  Log:47 - Scrolling till element is visible for object: vibrationStrengthLbl
+2021-12-11 05:13:24 INFO  Log:47 - Waiting visibility of element for object: vibrationStrengthBtn
+2021-12-11 05:13:24 INFO  Log:47 - Clicking on element for object: vibrationStrengthBtn
+2021-12-11 05:13:25 INFO  Log:47 - Waiting visibility of element for object: seekBar
+2021-12-11 05:13:25 INFO  Log:47 - Seekbar start point is: 296
+2021-12-11 05:13:25 INFO  Log:47 - Seekbar end point is: 1143
+2021-12-11 05:13:25 INFO  Log:47 - Seekbar vertical location is: 1259
+2021-12-11 05:13:28 INFO  Log:47 - Moving seek bar at 1143 In X direction for object: seekBar
+2021-12-11 05:13:28 INFO  Log:47 - Waiting visibility of element for object: okBtn
+2021-12-11 05:13:28 INFO  Log:47 - Clicking on element for object: okBtn
+2021-12-11 05:13:29 INFO  Log:47 - Waiting visibility of element for object: seekBarValue
+2021-12-11 05:13:29 INFO  Log:47 - Getting text attribute for object: seekBarValue
+2021-12-11 05:13:29 ERROR Log:59 - *** Test execution fourthTest failed ***
+2021-12-11 05:13:36 INFO  Log:47 - *** Test Suite Rain ending ***
+2021-12-11 05:18:05 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-11 05:18:31 INFO  Log:47 - *** Test firstTest skipped ***
+2021-12-11 05:18:31 INFO  Log:47 - *** Test secondTest skipped ***
+2021-12-11 05:18:31 INFO  Log:47 - *** Test thirdTest skipped ***
+2021-12-11 05:18:31 INFO  Log:47 - *** Test fourthTest skipped ***
+2021-12-11 05:18:31 INFO  Log:47 - *** Test Suite Rain ending ***
+2021-12-11 05:36:15 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-11 05:36:21 INFO  Log:47 - *** Test firstTest skipped ***
+2021-12-11 05:36:21 INFO  Log:47 - *** Test Suite Rain ending ***
+2021-12-11 05:40:10 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-11 05:41:07 INFO  Log:47 - Object repo loaded
+2021-12-11 05:41:08 INFO  Log:47 - *** Running test method firstTest ***
+2021-12-11 05:41:08 INFO  Log:15 - ****************************************************************************************
+2021-12-11 05:41:08 INFO  Log:17 - ****************************************************************************************
+2021-12-11 05:41:08 INFO  Log:19 - $$$$$$$$$$$$$$$$$$$$$                 Complete all the steps when launching the app for the first time and navigate to the Dashboard       $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-12-11 05:41:08 INFO  Log:21 - ****************************************************************************************
+2021-12-11 05:41:08 INFO  Log:23 - ****************************************************************************************
+2021-12-11 05:41:09 INFO  Log:47 - Started recording
+2021-12-11 05:41:09 INFO  Log:47 - Waiting visibility of element for object: homeScreen
+2021-12-11 05:41:09 INFO  Log:47 - Clicking on element for object: homeScreen
+2021-12-11 05:41:09 INFO  Log:47 - Element is displayed for object: centerIcon
+2021-12-11 05:41:09 INFO  Log:47 - Element is displayed for object: centerIcon
+2021-12-11 05:41:12 INFO  Log:47 - Stopped recording and clip is downloaded
+2021-12-11 05:41:12 INFO  Log:47 - *** Executed firstTest test successfully ***
+2021-12-11 06:29:44 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-11 06:30:09 INFO  Log:47 - *** Test firstTest skipped ***
+2021-12-11 06:30:09 INFO  Log:47 - *** Test secondTest skipped ***
+2021-12-11 06:30:09 INFO  Log:47 - *** Test thirdTest skipped ***
+2021-12-11 06:30:09 INFO  Log:47 - *** Test fourthTest skipped ***
+2021-12-11 06:30:09 INFO  Log:47 - *** Test Suite Rain ending ***
+2021-12-11 06:31:13 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-11 06:33:08 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-11 06:42:47 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-11 06:43:59 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-11 06:48:33 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-11 06:50:44 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-11 07:01:36 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-11 07:04:25 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-11 07:05:55 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-11 07:15:24 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-11 07:15:24 INFO  Log:47 - *** Test firstTest skipped ***
+2021-12-11 07:15:24 INFO  Log:47 - *** Test secondTest skipped ***
+2021-12-11 07:15:24 INFO  Log:47 - *** Test thirdTest skipped ***
+2021-12-11 07:15:24 INFO  Log:47 - *** Test fourthTest skipped ***
+2021-12-11 07:15:24 INFO  Log:47 - *** Test Suite Rain ending ***
+2021-12-11 07:17:35 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-11 07:18:06 INFO  Log:47 - *** Test firstTest skipped ***
+2021-12-11 07:18:06 INFO  Log:47 - *** Test secondTest skipped ***
+2021-12-11 07:18:06 INFO  Log:47 - *** Test thirdTest skipped ***
+2021-12-11 07:18:06 INFO  Log:47 - *** Test fourthTest skipped ***
+2021-12-11 07:18:06 INFO  Log:47 - *** Test Suite Rain ending ***
+2021-12-11 07:21:34 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-11 07:28:59 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-11 07:28:59 INFO  Log:47 - *** Test firstTest skipped ***
+2021-12-11 07:28:59 INFO  Log:47 - *** Test secondTest skipped ***
+2021-12-11 07:28:59 INFO  Log:47 - *** Test thirdTest skipped ***
+2021-12-11 07:28:59 INFO  Log:47 - *** Test fourthTest skipped ***
+2021-12-11 07:28:59 INFO  Log:47 - *** Test Suite Rain ending ***
+2021-12-11 07:31:05 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-11 07:38:09 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-11 07:38:09 INFO  Log:47 - *** Test firstTest skipped ***
+2021-12-11 07:38:09 INFO  Log:47 - *** Test secondTest skipped ***
+2021-12-11 07:38:09 INFO  Log:47 - *** Test thirdTest skipped ***
+2021-12-11 07:38:09 INFO  Log:47 - *** Test fourthTest skipped ***
+2021-12-11 07:38:09 INFO  Log:47 - *** Test Suite Rain ending ***
+2021-12-11 07:40:11 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-11 07:40:11 INFO  Log:47 - *** Test firstTest skipped ***
+2021-12-11 07:40:11 INFO  Log:47 - *** Test secondTest skipped ***
+2021-12-11 07:40:11 INFO  Log:47 - *** Test thirdTest skipped ***
+2021-12-11 07:40:11 INFO  Log:47 - *** Test fourthTest skipped ***
+2021-12-11 07:40:11 INFO  Log:47 - *** Test Suite Rain ending ***
+2021-12-11 07:41:53 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-11 07:57:32 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-11 08:01:30 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-11 08:07:09 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-11 08:08:04 INFO  Log:47 - *** Test firstTest skipped ***
+2021-12-11 08:08:04 INFO  Log:47 - *** Test secondTest skipped ***
+2021-12-11 08:08:04 INFO  Log:47 - *** Test thirdTest skipped ***
+2021-12-11 08:08:04 INFO  Log:47 - *** Test fourthTest skipped ***
+2021-12-11 08:08:04 INFO  Log:47 - *** Test Suite Rain ending ***
+2021-12-12 00:05:33 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-12 00:06:14 INFO  Log:47 - Object repo loaded
+2021-12-12 00:06:16 INFO  Log:47 - *** Running test method fourthTest ***
+2021-12-12 00:06:16 INFO  Log:15 - ****************************************************************************************
+2021-12-12 00:06:16 INFO  Log:17 - ****************************************************************************************
+2021-12-12 00:06:16 INFO  Log:19 - $$$$$$$$$$$$$$$$$$$$$                 Select Vibration Strength under behavior and set the vibration strength to 100       $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-12-12 00:06:16 INFO  Log:21 - ****************************************************************************************
+2021-12-12 00:06:16 INFO  Log:23 - ****************************************************************************************
+2021-12-12 00:06:17 INFO  Log:47 - Started recording
+2021-12-12 00:06:18 INFO  Log:47 - Waiting visibility of element for object: homeScreen
+2021-12-12 00:06:18 INFO  Log:47 - Clicking on element for object: homeScreen
+2021-12-12 00:06:22 INFO  Log:47 - Scrolling till element is visible for object: vibrationStrengthLbl
+2021-12-12 00:06:22 INFO  Log:47 - Waiting visibility of element for object: vibrationStrengthBtn
+2021-12-12 00:06:22 INFO  Log:47 - Clicking on element for object: vibrationStrengthBtn
+2021-12-12 00:06:23 INFO  Log:47 - Waiting visibility of element for object: seekBar
+2021-12-12 00:06:23 INFO  Log:47 - Seekbar start point is: 296
+2021-12-12 00:06:23 INFO  Log:47 - Seekbar end point is: 1143
+2021-12-12 00:06:23 INFO  Log:47 - Seekbar vertical location is: 1259
+2021-12-12 00:06:26 INFO  Log:47 - Moving seek bar at 1143 In X direction for object: seekBar
+2021-12-12 00:06:26 INFO  Log:47 - Waiting visibility of element for object: okBtn
+2021-12-12 00:06:27 INFO  Log:47 - Clicking on element for object: okBtn
+2021-12-12 00:06:28 INFO  Log:47 - Waiting visibility of element for object: seekBarValue
+2021-12-12 00:06:28 INFO  Log:47 - Getting text attribute for object: seekBarValue
+2021-12-12 00:06:39 INFO  Log:47 - Stopped recording and clip is downloaded
+2021-12-12 00:06:39 INFO  Log:47 - *** Executed fourthTest test successfully ***
+2021-12-12 00:06:57 INFO  Log:47 - *** Test Suite Rain ending ***
+2021-12-12 00:10:27 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-12 00:10:46 INFO  Log:47 - Object repo loaded
+2021-12-12 00:10:47 INFO  Log:47 - *** Running test method fourthTest ***
+2021-12-12 00:10:47 INFO  Log:15 - ****************************************************************************************
+2021-12-12 00:10:47 INFO  Log:17 - ****************************************************************************************
+2021-12-12 00:10:47 INFO  Log:19 - $$$$$$$$$$$$$$$$$$$$$                 Select Vibration Strength under behavior and set the vibration strength to 100       $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-12-12 00:10:47 INFO  Log:21 - ****************************************************************************************
+2021-12-12 00:10:47 INFO  Log:23 - ****************************************************************************************
+2021-12-12 00:10:48 INFO  Log:47 - Started recording
+2021-12-12 00:10:49 INFO  Log:47 - Waiting visibility of element for object: homeScreen
+2021-12-12 00:10:49 INFO  Log:47 - Clicking on element for object: homeScreen
+2021-12-12 00:10:53 INFO  Log:47 - Scrolling till element is visible for object: vibrationStrengthLbl
+2021-12-12 00:10:53 INFO  Log:47 - Waiting visibility of element for object: vibrationStrengthBtn
+2021-12-12 00:10:53 INFO  Log:47 - Clicking on element for object: vibrationStrengthBtn
+2021-12-12 00:10:54 INFO  Log:47 - Waiting visibility of element for object: seekBar
+2021-12-12 00:10:54 INFO  Log:47 - Seekbar start point is: 296
+2021-12-12 00:10:54 INFO  Log:47 - Seekbar end point is: 1143
+2021-12-12 00:10:54 INFO  Log:47 - Seekbar vertical location is: 1259
+2021-12-12 00:10:57 INFO  Log:47 - Moving seek bar at 1143 In X direction for object: seekBar
+2021-12-12 00:10:57 INFO  Log:47 - Waiting visibility of element for object: okBtn
+2021-12-12 00:10:58 INFO  Log:47 - Clicking on element for object: okBtn
+2021-12-12 00:10:59 INFO  Log:47 - Waiting visibility of element for object: seekBarValue
+2021-12-12 00:10:59 INFO  Log:47 - Getting text attribute for object: seekBarValue
+2021-12-12 00:10:59 ERROR Log:59 - *** Test execution fourthTest failed ***
+2021-12-12 00:11:10 INFO  Log:47 - *** Test Suite Rain ending ***
+2021-12-12 00:35:20 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-12 00:35:38 INFO  Log:47 - Object repo loaded
+2021-12-12 00:35:39 INFO  Log:47 - *** Running test method fourthTest ***
+2021-12-12 00:35:39 INFO  Log:15 - ****************************************************************************************
+2021-12-12 00:35:39 INFO  Log:17 - ****************************************************************************************
+2021-12-12 00:35:39 INFO  Log:19 - $$$$$$$$$$$$$$$$$$$$$                 Select Vibration Strength under behavior and set the vibration strength to 100       $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-12-12 00:35:39 INFO  Log:21 - ****************************************************************************************
+2021-12-12 00:35:39 INFO  Log:23 - ****************************************************************************************
+2021-12-12 00:35:41 INFO  Log:47 - Started recording
+2021-12-12 00:35:41 INFO  Log:47 - Waiting visibility of element for object: homeScreen
+2021-12-12 00:35:41 INFO  Log:47 - Clicking on element for object: homeScreen
+2021-12-12 00:35:45 INFO  Log:47 - Scrolling till element is visible for object: vibrationStrengthLbl
+2021-12-12 00:35:46 INFO  Log:47 - Waiting visibility of element for object: vibrationStrengthBtn
+2021-12-12 00:35:46 INFO  Log:47 - Clicking on element for object: vibrationStrengthBtn
+2021-12-12 00:35:47 INFO  Log:47 - Waiting visibility of element for object: seekBar
+2021-12-12 00:35:47 INFO  Log:47 - Seekbar start point is: 296
+2021-12-12 00:35:47 INFO  Log:47 - Seekbar end point is: 1143
+2021-12-12 00:35:47 INFO  Log:47 - Seekbar vertical location is: 1259
+2021-12-12 00:35:50 INFO  Log:47 - Moving seek bar at 1143 In X direction for object: seekBar
+2021-12-12 00:35:50 INFO  Log:47 - Waiting visibility of element for object: okBtn
+2021-12-12 00:35:50 INFO  Log:47 - Clicking on element for object: okBtn
+2021-12-12 00:35:52 INFO  Log:47 - Waiting visibility of element for object: seekBarValue
+2021-12-12 00:35:52 INFO  Log:47 - Getting text attribute for object: seekBarValue
+2021-12-12 00:35:52 ERROR Log:59 - *** Test execution fourthTest failed ***
+2021-12-12 00:36:04 INFO  Log:47 - *** Test Suite Rain ending ***
+2021-12-12 00:52:53 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-12 00:53:12 INFO  Log:47 - Object repo loaded
+2021-12-12 00:53:13 INFO  Log:47 - *** Running test method fourthTest ***
+2021-12-12 00:53:13 INFO  Log:15 - ****************************************************************************************
+2021-12-12 00:53:13 INFO  Log:17 - ****************************************************************************************
+2021-12-12 00:53:13 INFO  Log:19 - $$$$$$$$$$$$$$$$$$$$$                 Select Vibration Strength under behavior and set the vibration strength to 100       $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-12-12 00:53:13 INFO  Log:21 - ****************************************************************************************
+2021-12-12 00:53:13 INFO  Log:23 - ****************************************************************************************
+2021-12-12 00:53:14 INFO  Log:47 - Started recording
+2021-12-12 00:53:15 INFO  Log:47 - Waiting visibility of element for object: homeScreen
+2021-12-12 00:53:15 INFO  Log:47 - Clicking on element for object: homeScreen
+2021-12-12 00:53:18 INFO  Log:47 - Scrolling till element is visible for object: vibrationStrengthLbl
+2021-12-12 00:53:18 INFO  Log:47 - Waiting visibility of element for object: vibrationStrengthBtn
+2021-12-12 00:53:18 INFO  Log:47 - Clicking on element for object: vibrationStrengthBtn
+2021-12-12 00:53:19 INFO  Log:47 - Waiting visibility of element for object: seekBar
+2021-12-12 00:53:19 INFO  Log:47 - Seekbar start point is: 296
+2021-12-12 00:53:19 INFO  Log:47 - Seekbar end point is: 1143
+2021-12-12 00:53:19 INFO  Log:47 - Seekbar vertical location is: 1259
+2021-12-12 00:53:22 INFO  Log:47 - Moving seek bar at 1143 In X direction for object: seekBar
+2021-12-12 00:53:23 INFO  Log:47 - Waiting visibility of element for object: okBtn
+2021-12-12 00:53:23 INFO  Log:47 - Clicking on element for object: okBtn
+2021-12-12 00:53:24 INFO  Log:47 - Waiting visibility of element for object: seekBarValue
+2021-12-12 00:53:24 INFO  Log:47 - Getting text attribute for object: seekBarValue
+2021-12-12 00:53:27 INFO  Log:47 - Stopped recording and clip is downloaded
+2021-12-12 00:53:27 INFO  Log:47 - *** Executed fourthTest test successfully ***
+2021-12-12 00:53:35 INFO  Log:47 - *** Test Suite Rain ending ***
+2021-12-12 00:54:49 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-12 00:55:06 INFO  Log:47 - Object repo loaded
+2021-12-12 00:55:07 INFO  Log:47 - *** Running test method fourthTest ***
+2021-12-12 00:55:07 INFO  Log:15 - ****************************************************************************************
+2021-12-12 00:55:07 INFO  Log:17 - ****************************************************************************************
+2021-12-12 00:55:07 INFO  Log:19 - $$$$$$$$$$$$$$$$$$$$$                 Select Vibration Strength under behavior and set the vibration strength to 100       $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-12-12 00:55:07 INFO  Log:21 - ****************************************************************************************
+2021-12-12 00:55:07 INFO  Log:23 - ****************************************************************************************
+2021-12-12 00:55:09 INFO  Log:47 - Started recording
+2021-12-12 00:55:09 INFO  Log:47 - Waiting visibility of element for object: homeScreen
+2021-12-12 00:55:09 INFO  Log:47 - Clicking on element for object: homeScreen
+2021-12-12 00:55:13 INFO  Log:47 - Scrolling till element is visible for object: vibrationStrengthLbl
+2021-12-12 00:55:14 INFO  Log:47 - Waiting visibility of element for object: vibrationStrengthBtn
+2021-12-12 00:55:14 INFO  Log:47 - Clicking on element for object: vibrationStrengthBtn
+2021-12-12 00:55:15 INFO  Log:47 - Waiting visibility of element for object: seekBar
+2021-12-12 00:55:15 INFO  Log:47 - Seekbar start point is: 296
+2021-12-12 00:55:15 INFO  Log:47 - Seekbar end point is: 1143
+2021-12-12 00:55:15 INFO  Log:47 - Seekbar vertical location is: 1259
+2021-12-12 00:55:18 INFO  Log:47 - Moving seek bar at 1143 In X direction for object: seekBar
+2021-12-12 00:55:18 INFO  Log:47 - Waiting visibility of element for object: okBtn
+2021-12-12 00:55:18 INFO  Log:47 - Clicking on element for object: okBtn
+2021-12-12 00:55:20 INFO  Log:47 - Waiting visibility of element for object: seekBarValue
+2021-12-12 00:55:20 INFO  Log:47 - Getting text attribute for object: seekBarValue
+2021-12-12 00:55:22 INFO  Log:47 - Stopped recording and clip is downloaded
+2021-12-12 00:55:22 INFO  Log:47 - *** Executed fourthTest test successfully ***
+2021-12-12 00:55:30 INFO  Log:47 - *** Test Suite Rain ending ***
+2021-12-12 00:57:32 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-12 00:57:48 INFO  Log:47 - Object repo loaded
+2021-12-12 00:57:49 INFO  Log:47 - *** Running test method fourthTest ***
+2021-12-12 00:57:49 INFO  Log:15 - ****************************************************************************************
+2021-12-12 00:57:49 INFO  Log:17 - ****************************************************************************************
+2021-12-12 00:57:49 INFO  Log:19 - $$$$$$$$$$$$$$$$$$$$$                 Select Vibration Strength under behavior and set the vibration strength to 100       $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-12-12 00:57:49 INFO  Log:21 - ****************************************************************************************
+2021-12-12 00:57:49 INFO  Log:23 - ****************************************************************************************
+2021-12-12 00:57:51 INFO  Log:47 - Started recording
+2021-12-12 00:57:51 INFO  Log:47 - Waiting visibility of element for object: homeScreen
+2021-12-12 00:57:51 INFO  Log:47 - Clicking on element for object: homeScreen
+2021-12-12 00:57:54 INFO  Log:47 - Scrolling till element is visible for object: vibrationStrengthLbl
+2021-12-12 00:57:54 INFO  Log:47 - Waiting visibility of element for object: vibrationStrengthBtn
+2021-12-12 00:57:55 INFO  Log:47 - Clicking on element for object: vibrationStrengthBtn
+2021-12-12 00:57:56 INFO  Log:47 - Waiting visibility of element for object: seekBar
+2021-12-12 00:57:56 INFO  Log:47 - Seekbar start point is: 296
+2021-12-12 00:57:56 INFO  Log:47 - Seekbar end point is: 1143
+2021-12-12 00:57:56 INFO  Log:47 - Seekbar vertical location is: 1259
+2021-12-12 00:57:59 INFO  Log:47 - Moving seek bar at 1143 In X direction for object: seekBar
+2021-12-12 00:57:59 INFO  Log:47 - Waiting visibility of element for object: okBtn
+2021-12-12 00:57:59 INFO  Log:47 - Clicking on element for object: okBtn
+2021-12-12 00:58:00 INFO  Log:47 - Waiting visibility of element for object: seekBarValue
+2021-12-12 00:58:01 INFO  Log:47 - Getting text attribute for object: seekBarValue
+2021-12-12 00:58:01 ERROR Log:59 - seekBarValue is as expected
+2021-12-12 00:58:02 INFO  Log:47 - Stopped recording and clip is downloaded
+2021-12-12 00:58:02 INFO  Log:47 - *** Executed fourthTest test successfully ***
+2021-12-12 00:58:10 INFO  Log:47 - *** Test Suite Rain ending ***
+2021-12-12 01:00:01 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-12 01:00:19 INFO  Log:47 - Object repo loaded
+2021-12-12 01:00:20 INFO  Log:47 - *** Running test method fourthTest ***
+2021-12-12 01:00:20 INFO  Log:15 - ****************************************************************************************
+2021-12-12 01:00:20 INFO  Log:17 - ****************************************************************************************
+2021-12-12 01:00:20 INFO  Log:19 - $$$$$$$$$$$$$$$$$$$$$                 Select Vibration Strength under behavior and set the vibration strength to 100       $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-12-12 01:00:20 INFO  Log:21 - ****************************************************************************************
+2021-12-12 01:00:20 INFO  Log:23 - ****************************************************************************************
+2021-12-12 01:00:21 INFO  Log:47 - Started recording
+2021-12-12 01:00:21 INFO  Log:47 - Waiting visibility of element for object: homeScreen
+2021-12-12 01:00:22 INFO  Log:47 - Clicking on element for object: homeScreen
+2021-12-12 01:00:25 INFO  Log:47 - Scrolling till element is visible for object: vibrationStrengthLbl
+2021-12-12 01:00:25 INFO  Log:47 - Waiting visibility of element for object: vibrationStrengthBtn
+2021-12-12 01:00:25 INFO  Log:47 - Clicking on element for object: vibrationStrengthBtn
+2021-12-12 01:00:26 INFO  Log:47 - Waiting visibility of element for object: seekBar
+2021-12-12 01:00:26 INFO  Log:47 - Seekbar start point is: 296
+2021-12-12 01:00:26 INFO  Log:47 - Seekbar end point is: 1143
+2021-12-12 01:00:26 INFO  Log:47 - Seekbar vertical location is: 1259
+2021-12-12 01:00:29 INFO  Log:47 - Moving seek bar at 1143 In X direction for object: seekBar
+2021-12-12 01:00:30 INFO  Log:47 - Waiting visibility of element for object: okBtn
+2021-12-12 01:00:30 INFO  Log:47 - Clicking on element for object: okBtn
+2021-12-12 01:00:31 INFO  Log:47 - Waiting visibility of element for object: seekBarValue
+2021-12-12 01:00:32 INFO  Log:47 - Getting text attribute for object: seekBarValue
+2021-12-12 01:00:32 ERROR Log:59 - *** Test execution fourthTest failed ***
+2021-12-12 01:00:42 INFO  Log:47 - *** Test Suite Rain ending ***
+2021-12-12 01:07:15 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-12 01:07:32 INFO  Log:47 - Object repo loaded
+2021-12-12 01:07:33 INFO  Log:47 - *** Running test method fourthTest ***
+2021-12-12 01:07:33 INFO  Log:15 - ****************************************************************************************
+2021-12-12 01:07:33 INFO  Log:17 - ****************************************************************************************
+2021-12-12 01:07:33 INFO  Log:19 - $$$$$$$$$$$$$$$$$$$$$                 Select Vibration Strength under behavior and set the vibration strength to 100       $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-12-12 01:07:33 INFO  Log:21 - ****************************************************************************************
+2021-12-12 01:07:33 INFO  Log:23 - ****************************************************************************************
+2021-12-12 01:07:34 INFO  Log:47 - Started recording
+2021-12-12 01:07:34 INFO  Log:47 - Waiting visibility of element for object: homeScreen
+2021-12-12 01:07:34 INFO  Log:47 - Clicking on element for object: homeScreen
+2021-12-12 01:07:38 INFO  Log:47 - Scrolling till element is visible for object: vibrationStrengthLbl
+2021-12-12 01:07:38 INFO  Log:47 - Waiting visibility of element for object: vibrationStrengthBtn
+2021-12-12 01:07:38 INFO  Log:47 - Clicking on element for object: vibrationStrengthBtn
+2021-12-12 01:07:39 INFO  Log:47 - Waiting visibility of element for object: seekBar
+2021-12-12 01:07:39 INFO  Log:47 - Seekbar start point is: 296
+2021-12-12 01:07:39 INFO  Log:47 - Seekbar end point is: 1143
+2021-12-12 01:07:39 INFO  Log:47 - Seekbar vertical location is: 1259
+2021-12-12 01:07:42 INFO  Log:47 - Moving seek bar at 1143 In X direction for object: seekBar
+2021-12-12 01:07:43 INFO  Log:47 - Waiting visibility of element for object: okBtn
+2021-12-12 01:07:43 INFO  Log:47 - Clicking on element for object: okBtn
+2021-12-12 01:07:44 INFO  Log:47 - Waiting visibility of element for object: seekBarValue
+2021-12-12 01:07:44 INFO  Log:47 - Getting text attribute for object: seekBarValue
+2021-12-12 01:07:44 ERROR Log:59 - *** Test execution fourthTest failed ***
+2021-12-12 01:07:56 INFO  Log:47 - *** Test Suite Rain ending ***
+2021-12-12 01:19:24 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-12 01:19:41 INFO  Log:47 - Object repo loaded
+2021-12-12 01:19:42 INFO  Log:47 - *** Running test method fourthTest ***
+2021-12-12 01:19:43 INFO  Log:47 - Started recording
+2021-12-12 01:19:43 INFO  Log:15 - ****************************************************************************************
+2021-12-12 01:19:43 INFO  Log:17 - ****************************************************************************************
+2021-12-12 01:19:43 INFO  Log:19 - $$$$$$$$$$$$$$$$$$$$$                 Select Vibration Strength under behavior and set the vibration strength to 100       $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-12-12 01:19:43 INFO  Log:21 - ****************************************************************************************
+2021-12-12 01:19:43 INFO  Log:23 - ****************************************************************************************
+2021-12-12 01:19:46 INFO  Log:47 - Started recording
+2021-12-12 01:19:46 INFO  Log:47 - Waiting visibility of element for object: homeScreen
+2021-12-12 01:19:46 INFO  Log:47 - Clicking on element for object: homeScreen
+2021-12-12 01:19:50 INFO  Log:47 - Scrolling till element is visible for object: vibrationStrengthLbl
+2021-12-12 01:19:50 INFO  Log:47 - Waiting visibility of element for object: vibrationStrengthBtn
+2021-12-12 01:19:50 INFO  Log:47 - Clicking on element for object: vibrationStrengthBtn
+2021-12-12 01:19:52 INFO  Log:47 - Waiting visibility of element for object: seekBar
+2021-12-12 01:19:52 INFO  Log:47 - Seekbar start point is: 296
+2021-12-12 01:19:52 INFO  Log:47 - Seekbar end point is: 1143
+2021-12-12 01:19:52 INFO  Log:47 - Seekbar vertical location is: 1259
+2021-12-12 01:19:55 INFO  Log:47 - Moving seek bar at 1143 In X direction for object: seekBar
+2021-12-12 01:19:55 INFO  Log:47 - Waiting visibility of element for object: okBtn
+2021-12-12 01:19:55 INFO  Log:47 - Clicking on element for object: okBtn
+2021-12-12 01:19:57 INFO  Log:47 - Waiting visibility of element for object: seekBarValue
+2021-12-12 01:19:57 INFO  Log:47 - Getting text attribute for object: seekBarValue
+2021-12-12 01:19:57 ERROR Log:59 - *** Test execution fourthTest failed ***
+2021-12-12 01:19:59 INFO  Log:47 - Stopped recording and clip is downloaded
+2021-12-12 01:20:07 INFO  Log:47 - *** Test Suite Rain ending ***
+2021-12-12 01:27:55 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-12 01:28:11 INFO  Log:47 - Object repo loaded
+2021-12-12 01:28:12 INFO  Log:47 - *** Running test method fourthTest ***
+2021-12-12 01:28:14 INFO  Log:47 - Started recording
+2021-12-12 01:28:14 INFO  Log:15 - ****************************************************************************************
+2021-12-12 01:28:14 INFO  Log:17 - ****************************************************************************************
+2021-12-12 01:28:14 INFO  Log:19 - $$$$$$$$$$$$$$$$$$$$$                 Select Vibration Strength under behavior and set the vibration strength to 100       $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-12-12 01:28:14 INFO  Log:21 - ****************************************************************************************
+2021-12-12 01:28:14 INFO  Log:23 - ****************************************************************************************
+2021-12-12 01:28:16 INFO  Log:47 - Started recording
+2021-12-12 01:28:16 INFO  Log:47 - Waiting visibility of element for object: homeScreen
+2021-12-12 01:28:17 INFO  Log:47 - Clicking on element for object: homeScreen
+2021-12-12 01:28:20 INFO  Log:47 - Scrolling till element is visible for object: vibrationStrengthLbl
+2021-12-12 01:28:20 INFO  Log:47 - Waiting visibility of element for object: vibrationStrengthBtn
+2021-12-12 01:28:21 INFO  Log:47 - Clicking on element for object: vibrationStrengthBtn
+2021-12-12 01:28:21 INFO  Log:47 - Waiting visibility of element for object: seekBar
+2021-12-12 01:28:22 INFO  Log:47 - Seekbar start point is: 296
+2021-12-12 01:28:22 INFO  Log:47 - Seekbar end point is: 1143
+2021-12-12 01:28:22 INFO  Log:47 - Seekbar vertical location is: 1259
+2021-12-12 01:28:25 INFO  Log:47 - Moving seek bar at 1143 In X direction for object: seekBar
+2021-12-12 01:28:25 INFO  Log:47 - Waiting visibility of element for object: okBtn
+2021-12-12 01:28:25 INFO  Log:47 - Clicking on element for object: okBtn
+2021-12-12 01:28:27 INFO  Log:47 - Waiting visibility of element for object: seekBarValue
+2021-12-12 01:28:27 INFO  Log:47 - Getting text attribute for object: seekBarValue
+2021-12-12 01:28:27 ERROR Log:59 - *** Test execution fourthTest failed ***
+2021-12-12 01:28:28 INFO  Log:47 - Stopped recording and clip is downloaded
+2021-12-12 01:28:36 INFO  Log:47 - *** Test Suite Rain ending ***
+2021-12-12 01:33:53 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-12 01:34:10 INFO  Log:47 - Object repo loaded
+2021-12-12 01:34:11 INFO  Log:47 - *** Running test method fourthTest ***
+2021-12-12 01:34:12 INFO  Log:47 - Started recording
+2021-12-12 01:34:12 INFO  Log:15 - ****************************************************************************************
+2021-12-12 01:34:12 INFO  Log:17 - ****************************************************************************************
+2021-12-12 01:34:12 INFO  Log:19 - $$$$$$$$$$$$$$$$$$$$$                 Select Vibration Strength under behavior and set the vibration strength to 100       $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-12-12 01:34:12 INFO  Log:21 - ****************************************************************************************
+2021-12-12 01:34:12 INFO  Log:23 - ****************************************************************************************
+2021-12-12 01:34:14 INFO  Log:47 - Started recording
+2021-12-12 01:34:15 INFO  Log:47 - Waiting visibility of element for object: homeScreen
+2021-12-12 01:34:15 INFO  Log:47 - Clicking on element for object: homeScreen
+2021-12-12 01:34:18 INFO  Log:47 - Scrolling till element is visible for object: vibrationStrengthLbl
+2021-12-12 01:34:18 INFO  Log:47 - Waiting visibility of element for object: vibrationStrengthBtn
+2021-12-12 01:34:18 INFO  Log:47 - Clicking on element for object: vibrationStrengthBtn
+2021-12-12 01:34:19 INFO  Log:47 - Waiting visibility of element for object: seekBar
+2021-12-12 01:34:19 INFO  Log:47 - Seekbar start point is: 296
+2021-12-12 01:34:19 INFO  Log:47 - Seekbar end point is: 1143
+2021-12-12 01:34:19 INFO  Log:47 - Seekbar vertical location is: 1259
+2021-12-12 01:34:22 INFO  Log:47 - Moving seek bar at 1143 In X direction for object: seekBar
+2021-12-12 01:34:23 INFO  Log:47 - Waiting visibility of element for object: okBtn
+2021-12-12 01:34:23 INFO  Log:47 - Clicking on element for object: okBtn
+2021-12-12 01:34:24 INFO  Log:47 - Waiting visibility of element for object: seekBarValue
+2021-12-12 01:34:24 INFO  Log:47 - Getting text attribute for object: seekBarValue
+2021-12-12 01:34:24 ERROR Log:59 - *** Test execution fourthTest failed ***
+2021-12-12 01:34:27 INFO  Log:47 - Stopped recording and clip is downloaded
+2021-12-12 01:34:34 INFO  Log:47 - *** Test Suite Rain ending ***
+2021-12-12 01:37:31 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-12 01:37:47 INFO  Log:47 - Object repo loaded
+2021-12-12 01:37:48 INFO  Log:47 - *** Running test method fourthTest ***
+2021-12-12 01:37:49 INFO  Log:47 - Started recording
+2021-12-12 01:37:49 INFO  Log:15 - ****************************************************************************************
+2021-12-12 01:37:49 INFO  Log:17 - ****************************************************************************************
+2021-12-12 01:37:49 INFO  Log:19 - $$$$$$$$$$$$$$$$$$$$$                 Select Vibration Strength under behavior and set the vibration strength to 100       $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-12-12 01:37:49 INFO  Log:21 - ****************************************************************************************
+2021-12-12 01:37:49 INFO  Log:23 - ****************************************************************************************
+2021-12-12 01:37:52 INFO  Log:47 - Started recording
+2021-12-12 01:37:52 INFO  Log:47 - Waiting visibility of element for object: homeScreen
+2021-12-12 01:37:52 INFO  Log:47 - Clicking on element for object: homeScreen
+2021-12-12 01:37:56 INFO  Log:47 - Scrolling till element is visible for object: vibrationStrengthLbl
+2021-12-12 01:37:56 INFO  Log:47 - Waiting visibility of element for object: vibrationStrengthBtn
+2021-12-12 01:37:56 INFO  Log:47 - Clicking on element for object: vibrationStrengthBtn
+2021-12-12 01:37:57 INFO  Log:47 - Waiting visibility of element for object: seekBar
+2021-12-12 01:37:57 INFO  Log:47 - Seekbar start point is: 296
+2021-12-12 01:37:57 INFO  Log:47 - Seekbar end point is: 1143
+2021-12-12 01:37:57 INFO  Log:47 - Seekbar vertical location is: 1259
+2021-12-12 01:38:00 INFO  Log:47 - Moving seek bar at 1143 In X direction for object: seekBar
+2021-12-12 01:38:01 INFO  Log:47 - Waiting visibility of element for object: okBtn
+2021-12-12 01:38:01 INFO  Log:47 - Clicking on element for object: okBtn
+2021-12-12 01:38:02 INFO  Log:47 - Waiting visibility of element for object: seekBarValue
+2021-12-12 01:38:02 INFO  Log:47 - Getting text attribute for object: seekBarValue
+2021-12-12 01:38:02 INFO  Log:47 - *** Executed fourthTest test successfully ***
+2021-12-12 01:38:02 ERROR Log:59 - *** Test execution fourthTest failed ***
+2021-12-12 01:38:04 INFO  Log:47 - Stopped recording and clip is downloaded
+2021-12-12 01:38:05 INFO  Log:47 - *** Test Suite Rain ending ***
+2021-12-12 01:41:31 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-12 01:41:48 INFO  Log:47 - Object repo loaded
+2021-12-12 01:41:49 INFO  Log:47 - *** Running test method fourthTest ***
+2021-12-12 01:41:50 INFO  Log:47 - Started recording
+2021-12-12 01:41:50 INFO  Log:15 - ****************************************************************************************
+2021-12-12 01:41:50 INFO  Log:17 - ****************************************************************************************
+2021-12-12 01:41:50 INFO  Log:19 - $$$$$$$$$$$$$$$$$$$$$                 Select Vibration Strength under behavior and set the vibration strength to 100       $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-12-12 01:41:50 INFO  Log:21 - ****************************************************************************************
+2021-12-12 01:41:50 INFO  Log:23 - ****************************************************************************************
+2021-12-12 01:41:52 INFO  Log:47 - Started recording
+2021-12-12 01:41:52 INFO  Log:47 - Waiting visibility of element for object: homeScreen
+2021-12-12 01:41:52 INFO  Log:47 - Clicking on element for object: homeScreen
+2021-12-12 01:41:56 INFO  Log:47 - Scrolling till element is visible for object: vibrationStrengthLbl
+2021-12-12 01:41:56 INFO  Log:47 - Waiting visibility of element for object: vibrationStrengthBtn
+2021-12-12 01:41:56 INFO  Log:47 - Clicking on element for object: vibrationStrengthBtn
+2021-12-12 01:41:57 INFO  Log:47 - Waiting visibility of element for object: seekBar
+2021-12-12 01:41:57 INFO  Log:47 - Seekbar start point is: 296
+2021-12-12 01:41:57 INFO  Log:47 - Seekbar end point is: 1143
+2021-12-12 01:41:57 INFO  Log:47 - Seekbar vertical location is: 1259
+2021-12-12 01:42:00 INFO  Log:47 - Moving seek bar at 1143 In X direction for object: seekBar
+2021-12-12 01:42:00 INFO  Log:47 - Waiting visibility of element for object: okBtn
+2021-12-12 01:42:00 INFO  Log:47 - Clicking on element for object: okBtn
+2021-12-12 01:42:02 INFO  Log:47 - Waiting visibility of element for object: seekBarValue
+2021-12-12 01:42:02 INFO  Log:47 - Getting text attribute for object: seekBarValue
+2021-12-12 01:42:02 INFO  Log:47 - *** Executed fourthTest test successfully ***
+2021-12-12 01:42:02 INFO  Log:47 - *** Test execution fourthTest failed ***
+2021-12-12 01:42:04 INFO  Log:47 - Stopped recording and clip is downloaded
+2021-12-12 01:42:06 INFO  Log:47 - *** Test Suite Rain ending ***
+2021-12-12 01:45:35 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-12 01:45:51 INFO  Log:47 - Object repo loaded
+2021-12-12 01:45:52 INFO  Log:47 - *** Running test method fourthTest ***
+2021-12-12 01:45:53 INFO  Log:47 - Started recording
+2021-12-12 01:45:53 INFO  Log:15 - ****************************************************************************************
+2021-12-12 01:45:53 INFO  Log:17 - ****************************************************************************************
+2021-12-12 01:45:53 INFO  Log:19 - $$$$$$$$$$$$$$$$$$$$$                 Select Vibration Strength under behavior and set the vibration strength to 100       $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-12-12 01:45:53 INFO  Log:21 - ****************************************************************************************
+2021-12-12 01:45:53 INFO  Log:23 - ****************************************************************************************
+2021-12-12 01:45:56 INFO  Log:47 - Started recording
+2021-12-12 01:45:56 INFO  Log:47 - Waiting visibility of element for object: homeScreen
+2021-12-12 01:45:56 INFO  Log:47 - Clicking on element for object: homeScreen
+2021-12-12 01:46:00 INFO  Log:47 - Scrolling till element is visible for object: vibrationStrengthLbl
+2021-12-12 01:46:00 INFO  Log:47 - Waiting visibility of element for object: vibrationStrengthBtn
+2021-12-12 01:46:00 INFO  Log:47 - Clicking on element for object: vibrationStrengthBtn
+2021-12-12 01:46:01 INFO  Log:47 - Waiting visibility of element for object: seekBar
+2021-12-12 01:46:01 INFO  Log:47 - Seekbar start point is: 296
+2021-12-12 01:46:01 INFO  Log:47 - Seekbar end point is: 1143
+2021-12-12 01:46:01 INFO  Log:47 - Seekbar vertical location is: 1259
+2021-12-12 01:46:04 INFO  Log:47 - Moving seek bar at 1143 In X direction for object: seekBar
+2021-12-12 01:46:04 INFO  Log:47 - Waiting visibility of element for object: okBtn
+2021-12-12 01:46:05 INFO  Log:47 - Clicking on element for object: okBtn
+2021-12-12 01:46:06 INFO  Log:47 - Waiting visibility of element for object: seekBarValue
+2021-12-12 01:46:06 INFO  Log:47 - Getting text attribute for object: seekBarValue
+2021-12-12 01:46:06 INFO  Log:47 - *** Executed fourthTest test successfully ***
+2021-12-12 01:46:06 INFO  Log:47 - *** Test execution of fourthTest failed ***
+2021-12-12 01:46:08 INFO  Log:47 - Stopped recording and clip is downloaded
+2021-12-12 01:46:10 INFO  Log:47 - *** Test Suite Rain ending ***
+2021-12-12 01:52:56 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-12 01:53:14 INFO  Log:47 - Object repo loaded
+2021-12-12 01:53:15 INFO  Log:47 - *** Running test method thirdTest ***
+2021-12-12 01:53:16 INFO  Log:47 - Started recording
+2021-12-12 01:53:16 INFO  Log:15 - ****************************************************************************************
+2021-12-12 01:53:16 INFO  Log:17 - ****************************************************************************************
+2021-12-12 01:53:16 INFO  Log:19 - $$$$$$$$$$$$$$$$$$$$$                 Scroll down to the bottom and uncheck the show notification checkbox.       $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-12-12 01:53:16 INFO  Log:21 - ****************************************************************************************
+2021-12-12 01:53:16 INFO  Log:23 - ****************************************************************************************
+2021-12-12 01:53:17 INFO  Log:47 - Waiting visibility of element for object: homeScreen
+2021-12-12 01:53:17 INFO  Log:47 - Clicking on element for object: homeScreen
+2021-12-12 01:53:20 INFO  Log:47 - Scrolling till element is visible for object: showNotificationLbl
+2021-12-12 01:53:20 INFO  Log:47 - Waiting visibility of element for object: notificationCheckBox
+2021-12-12 01:53:21 INFO  Log:47 - Clicking on element for object: notificationCheckBox
+2021-12-12 01:53:21 INFO  Log:47 - Getting selected attribute for object: notificationCheckBox
+2021-12-12 01:53:21 INFO  Log:47 - *** Executed thirdTest test successfully ***
+2021-12-12 01:53:23 INFO  Log:47 - Stopped recording and clip is downloaded
+2021-12-12 01:53:31 INFO  Log:47 - *** Test Suite Rain ending ***
+2021-12-12 01:54:27 INFO  Log:47 - *** Test Suite Rain started ***
+2021-12-12 01:54:43 INFO  Log:47 - Object repo loaded
+2021-12-12 01:54:44 INFO  Log:47 - *** Running test method fourthTest ***
+2021-12-12 01:54:45 INFO  Log:47 - Started recording
+2021-12-12 01:54:45 INFO  Log:15 - ****************************************************************************************
+2021-12-12 01:54:45 INFO  Log:17 - ****************************************************************************************
+2021-12-12 01:54:45 INFO  Log:19 - $$$$$$$$$$$$$$$$$$$$$                 Select Vibration Strength under behavior and set the vibration strength to 100       $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-12-12 01:54:45 INFO  Log:21 - ****************************************************************************************
+2021-12-12 01:54:45 INFO  Log:23 - ****************************************************************************************
+2021-12-12 01:54:47 INFO  Log:47 - Started recording
+2021-12-12 01:54:48 INFO  Log:47 - Waiting visibility of element for object: homeScreen
+2021-12-12 01:54:48 INFO  Log:47 - Clicking on element for object: homeScreen
+2021-12-12 01:54:51 INFO  Log:47 - Scrolling till element is visible for object: vibrationStrengthLbl
+2021-12-12 01:54:51 INFO  Log:47 - Waiting visibility of element for object: vibrationStrengthBtn
+2021-12-12 01:54:51 INFO  Log:47 - Clicking on element for object: vibrationStrengthBtn
+2021-12-12 01:54:52 INFO  Log:47 - Waiting visibility of element for object: seekBar
+2021-12-12 01:54:52 INFO  Log:47 - Seekbar start point is: 296
+2021-12-12 01:54:52 INFO  Log:47 - Seekbar end point is: 1143
+2021-12-12 01:54:52 INFO  Log:47 - Seekbar vertical location is: 1259
+2021-12-12 01:54:55 INFO  Log:47 - Moving seek bar at 1143 In X direction for object: seekBar
+2021-12-12 01:54:56 INFO  Log:47 - Waiting visibility of element for object: okBtn
+2021-12-12 01:54:56 INFO  Log:47 - Clicking on element for object: okBtn
+2021-12-12 01:54:57 INFO  Log:47 - Waiting visibility of element for object: seekBarValue
+2021-12-12 01:54:57 INFO  Log:47 - Getting text attribute for object: seekBarValue
+2021-12-12 01:54:57 INFO  Log:47 - *** Executed fourthTest test successfully ***
+2021-12-12 01:54:59 INFO  Log:47 - Stopped recording and clip is downloaded
+2021-12-12 01:55:07 INFO  Log:47 - *** Test Suite Rain ending ***
+2021-12-12 02:56:40 INFO  Log:32 - *** Test Suite Rain started ***
+2021-12-12 03:00:52 INFO  Log:32 - *** Test firstTest skipped ***
+2021-12-12 03:00:52 ERROR Log:44 - Failed to stop recordingnull
+2021-12-12 03:00:52 INFO  Log:32 - *** Test secondTest skipped ***
+2021-12-12 03:00:52 ERROR Log:44 - Failed to stop recordingnull
+2021-12-12 03:00:52 INFO  Log:32 - *** Test thirdTest skipped ***
+2021-12-12 03:00:52 ERROR Log:44 - Failed to stop recordingnull
+2021-12-12 03:00:52 INFO  Log:32 - *** Test fourthTest skipped ***
+2021-12-12 03:00:52 ERROR Log:44 - Failed to stop recordingnull
+2021-12-12 03:00:52 INFO  Log:32 - *** Test Suite Rain ending ***
+2021-12-12 03:02:42 INFO  Log:32 - *** Test Suite Rain started ***
+2021-12-12 03:06:20 INFO  Log:32 - *** Test firstTest skipped ***
+2021-12-12 03:06:20 ERROR Log:44 - Failed to stop recordingnull
+2021-12-12 03:06:20 INFO  Log:32 - *** Test secondTest skipped ***
+2021-12-12 03:06:20 ERROR Log:44 - Failed to stop recordingnull
+2021-12-12 03:06:20 INFO  Log:32 - *** Test thirdTest skipped ***
+2021-12-12 03:06:20 ERROR Log:44 - Failed to stop recordingnull
+2021-12-12 03:06:20 INFO  Log:32 - *** Test fourthTest skipped ***
+2021-12-12 03:06:20 ERROR Log:44 - Failed to stop recordingnull
+2021-12-12 03:06:20 INFO  Log:32 - *** Test Suite Rain ending ***
+2021-12-12 03:08:22 INFO  Log:32 - *** Test Suite Rain started ***
+2021-12-12 03:10:26 INFO  Log:32 - *** Test firstTest skipped ***
+2021-12-12 03:10:26 ERROR Log:44 - Failed to stop recordingnull
+2021-12-12 03:10:26 INFO  Log:32 - *** Test secondTest skipped ***
+2021-12-12 03:10:26 ERROR Log:44 - Failed to stop recordingnull
+2021-12-12 03:10:26 INFO  Log:32 - *** Test thirdTest skipped ***
+2021-12-12 03:10:26 ERROR Log:44 - Failed to stop recordingnull
+2021-12-12 03:10:26 INFO  Log:32 - *** Test fourthTest skipped ***
+2021-12-12 03:10:26 ERROR Log:44 - Failed to stop recordingnull
+2021-12-12 03:10:26 INFO  Log:32 - *** Test Suite Rain ending ***
+2021-12-12 03:10:42 INFO  Log:32 - *** Test Suite Rain started ***
+2021-12-12 03:16:41 INFO  Log:32 - *** Test firstTest skipped ***
+2021-12-12 03:16:41 ERROR Log:44 - Failed to stop recordingnull
+2021-12-12 03:16:41 INFO  Log:32 - *** Test secondTest skipped ***
+2021-12-12 03:16:41 ERROR Log:44 - Failed to stop recordingnull
+2021-12-12 03:16:41 INFO  Log:32 - *** Test thirdTest skipped ***
+2021-12-12 03:16:41 ERROR Log:44 - Failed to stop recordingnull
+2021-12-12 03:16:41 INFO  Log:32 - *** Test fourthTest skipped ***
+2021-12-12 03:16:41 ERROR Log:44 - Failed to stop recordingnull
+2021-12-12 03:16:41 INFO  Log:32 - *** Test Suite Rain ending ***
+2021-12-12 03:16:56 INFO  Log:32 - *** Test Suite Rain started ***
+2021-12-12 03:18:19 INFO  Log:32 - Object repo loaded
+2021-12-12 03:18:19 INFO  Log:32 - *** Running test method firstTest ***
+2021-12-12 03:18:20 INFO  Log:32 - Started recording
+2021-12-12 03:18:20 INFO  Log:16 - ****************************************************************************************
+2021-12-12 03:18:20 INFO  Log:18 - ****************************************************************************************
+2021-12-12 03:18:20 INFO  Log:20 - $$$$  Complete all the steps when launching the app for the first time and navigate to the Dashboard $$$$
+2021-12-12 03:18:20 INFO  Log:22 - ****************************************************************************************
+2021-12-12 03:18:20 INFO  Log:24 - ****************************************************************************************
+2021-12-12 03:18:22 INFO  Log:32 - Started recording
+2021-12-12 03:18:22 INFO  Log:32 - Waiting visibility of element for object: homeScreen
+2021-12-12 03:18:22 INFO  Log:32 - Clicking on element for object: homeScreen
+2021-12-12 03:18:23 INFO  Log:32 - Element is displayed for object: centerIcon
+2021-12-12 03:18:23 INFO  Log:32 - Element is displayed for object: centerIcon
+2021-12-12 03:18:23 INFO  Log:32 - *** Executed firstTest test successfully ***
+2021-12-12 03:18:24 INFO  Log:32 - Stopped recording and clip is downloaded
+2021-12-12 03:18:29 INFO  Log:32 - *** Running test method secondTest ***
+2021-12-12 03:18:30 INFO  Log:32 - Started recording
+2021-12-12 03:18:30 INFO  Log:16 - ****************************************************************************************
+2021-12-12 03:18:30 INFO  Log:18 - ****************************************************************************************
+2021-12-12 03:18:30 INFO  Log:20 - $$$$  Select Action on click under Actions and print all the elements in the radio selection list view $$$$
+2021-12-12 03:18:30 INFO  Log:22 - ****************************************************************************************
+2021-12-12 03:18:30 INFO  Log:24 - ****************************************************************************************
+2021-12-12 03:18:31 INFO  Log:32 - Started recording
+2021-12-12 03:18:31 INFO  Log:32 - Waiting visibility of element for object: homeScreen
+2021-12-12 03:18:31 INFO  Log:32 - Clicking on element for object: homeScreen
+2021-12-12 03:18:31 INFO  Log:32 - Waiting visibility of element for object: actionOnClickBtn
+2021-12-12 03:18:31 INFO  Log:32 - Clicking on element for object: actionOnClickBtn
+2021-12-12 03:18:32 INFO  Log:32 - Getting list of elements for object: radioList
+2021-12-12 03:18:32 INFO  Log:32 - Reading list of elements, list is: [None, Home, Recent applications, Pull down notification, Device settings, Selected application, [Experimental] Back, [PRO] Screenshot, [PRO] Lock the screen, [PRO] Quick settings, [PRO] Power menu]
+2021-12-12 03:18:32 INFO  Log:32 - *** Executed secondTest test successfully ***
+2021-12-12 03:18:34 INFO  Log:32 - Stopped recording and clip is downloaded
+2021-12-12 03:18:38 INFO  Log:32 - *** Running test method thirdTest ***
+2021-12-12 03:18:39 INFO  Log:32 - Started recording
+2021-12-12 03:18:39 INFO  Log:16 - ****************************************************************************************
+2021-12-12 03:18:39 INFO  Log:18 - ****************************************************************************************
+2021-12-12 03:18:39 INFO  Log:20 - $$$$  Scroll down to the bottom and uncheck the show notification checkbox. $$$$
+2021-12-12 03:18:39 INFO  Log:22 - ****************************************************************************************
+2021-12-12 03:18:39 INFO  Log:24 - ****************************************************************************************
+2021-12-12 03:18:39 INFO  Log:32 - Waiting visibility of element for object: homeScreen
+2021-12-12 03:18:39 INFO  Log:32 - Clicking on element for object: homeScreen
+2021-12-12 03:18:43 INFO  Log:32 - Scrolling till element is visible for object: showNotificationLbl
+2021-12-12 03:18:43 INFO  Log:32 - Waiting visibility of element for object: notificationCheckBox
+2021-12-12 03:18:43 INFO  Log:32 - Clicking on element for object: notificationCheckBox
+2021-12-12 03:18:44 INFO  Log:32 - Getting selected attribute for object: notificationCheckBox
+2021-12-12 03:18:44 INFO  Log:32 - *** Executed thirdTest test successfully ***
+2021-12-12 03:18:45 INFO  Log:32 - Stopped recording and clip is downloaded
+2021-12-12 03:18:49 INFO  Log:32 - *** Running test method fourthTest ***
+2021-12-12 03:18:50 INFO  Log:32 - Started recording
+2021-12-12 03:18:50 INFO  Log:16 - ****************************************************************************************
+2021-12-12 03:18:50 INFO  Log:18 - ****************************************************************************************
+2021-12-12 03:18:50 INFO  Log:20 - $$$$  Select Vibration Strength under behavior and set the vibration strength to 100 $$$$
+2021-12-12 03:18:50 INFO  Log:22 - ****************************************************************************************
+2021-12-12 03:18:50 INFO  Log:24 - ****************************************************************************************
+2021-12-12 03:18:51 INFO  Log:32 - Started recording
+2021-12-12 03:18:51 INFO  Log:32 - Waiting visibility of element for object: homeScreen
+2021-12-12 03:18:51 INFO  Log:32 - Clicking on element for object: homeScreen
+2021-12-12 03:18:54 INFO  Log:32 - Scrolling till element is visible for object: vibrationStrengthLbl
+2021-12-12 03:18:54 INFO  Log:32 - Waiting visibility of element for object: vibrationStrengthBtn
+2021-12-12 03:18:54 INFO  Log:32 - Clicking on element for object: vibrationStrengthBtn
+2021-12-12 03:18:55 INFO  Log:32 - Waiting visibility of element for object: seekBar
+2021-12-12 03:18:55 INFO  Log:32 - Seekbar start point is: 296
+2021-12-12 03:18:55 INFO  Log:32 - Seekbar end point is: 1143
+2021-12-12 03:18:55 INFO  Log:32 - Seekbar vertical location is: 1259
+2021-12-12 03:18:57 INFO  Log:32 - Moving seek bar at 1143 In X direction for object: seekBar
+2021-12-12 03:18:58 INFO  Log:32 - Waiting visibility of element for object: okBtn
+2021-12-12 03:18:58 INFO  Log:32 - Clicking on element for object: okBtn
+2021-12-12 03:18:59 INFO  Log:32 - Waiting visibility of element for object: seekBarValue
+2021-12-12 03:18:59 INFO  Log:32 - Getting text attribute for object: seekBarValue
+2021-12-12 03:18:59 INFO  Log:32 - *** Executed fourthTest test successfully ***
+2021-12-12 03:19:01 INFO  Log:32 - Stopped recording and clip is downloaded
+2021-12-12 03:19:06 INFO  Log:32 - *** Test Suite Rain ending ***
+2021-12-12 04:43:14 INFO  Log:32 - *** Test Suite Rain started ***
+2021-12-12 04:43:28 INFO  Log:32 - Object repo loaded
+2021-12-12 04:43:29 INFO  Log:32 - *** Running test method FifthTest ***
+2021-12-12 04:43:29 INFO  Log:32 - *** Test execution of FifthTest failed ***
+2021-12-12 04:43:29 INFO  Log:32 - *** Test execution of FifthTest failed ***
+2021-12-12 04:43:30 INFO  Log:32 - *** Test Suite Rain ending ***
+2021-12-12 04:45:26 INFO  Log:32 - *** Test Suite Rain started ***
+2021-12-12 04:45:37 INFO  Log:32 - Object repo loaded
+2021-12-12 04:45:38 INFO  Log:32 - *** Running test method FifthTest ***
+2021-12-12 04:45:38 INFO  Log:32 - *** Test execution of FifthTest failed ***
+2021-12-12 04:45:38 INFO  Log:32 - *** Test execution of FifthTest failed ***
+2021-12-12 04:45:39 INFO  Log:32 - *** Test Suite Rain ending ***
+2021-12-12 04:50:37 INFO  Log:32 - *** Test Suite Rain started ***
+2021-12-12 04:50:48 INFO  Log:32 - Object repo loaded
+2021-12-12 04:50:49 INFO  Log:32 - *** Running test method FifthTest ***
+2021-12-12 04:50:49 INFO  Log:32 - *** Test execution of FifthTest failed ***
+2021-12-12 04:50:49 INFO  Log:32 - *** Test execution of FifthTest failed ***
+2021-12-12 04:50:50 INFO  Log:32 - *** Test Suite Rain ending ***
+2021-12-12 04:58:45 INFO  Log:32 - *** Test Suite Rain started ***
+2021-12-12 04:59:02 INFO  Log:32 - Object repo loaded
+2021-12-12 04:59:03 INFO  Log:32 - *** Running test method firstTest ***
+2021-12-12 04:59:03 INFO  Log:32 - *** Test execution of firstTest failed ***
+2021-12-12 04:59:03 INFO  Log:32 - *** Test execution of firstTest failed ***
+2021-12-12 04:59:05 INFO  Log:32 - *** Test Suite Rain ending ***
+2021-12-12 05:00:33 INFO  Log:32 - *** Test Suite Rain started ***
+2021-12-12 05:00:49 INFO  Log:32 - Object repo loaded
+2021-12-12 05:00:50 INFO  Log:32 - *** Running test method FifthTest ***
+2021-12-12 05:00:50 INFO  Log:32 - *** Test execution of FifthTest failed ***
+2021-12-12 05:00:50 INFO  Log:32 - *** Test execution of FifthTest failed ***
+2021-12-12 05:00:52 INFO  Log:32 - *** Test Suite Rain ending ***
+2021-12-12 05:13:35 INFO  Log:32 - *** Test Suite Rain started ***
+2021-12-12 05:13:53 INFO  Log:32 - Object repo loaded
+2021-12-12 05:13:54 INFO  Log:32 - *** Running test method FifthTest ***
+2021-12-12 05:13:54 INFO  Log:16 - ****************************************************************************************
+2021-12-12 05:13:54 INFO  Log:18 - ****************************************************************************************
+2021-12-12 05:13:54 INFO  Log:20 - $$$$  Select button color under appearance and select violet color $$$$
+2021-12-12 05:13:54 INFO  Log:22 - ****************************************************************************************
+2021-12-12 05:13:54 INFO  Log:24 - ****************************************************************************************
+2021-12-12 05:13:54 INFO  Log:32 - Waiting visibility of element for object: homeScreen
+2021-12-12 05:13:54 INFO  Log:32 - Clicking on element for object: homeScreen
+2021-12-12 05:13:55 INFO  Log:32 - Waiting visibility of element for object: ButtonColorBtn
+2021-12-12 05:13:55 INFO  Log:32 - Clicking on element for object: ButtonColorBtn
+2021-12-12 05:14:05 ERROR Log:44 - Failed to find element for object: violetColor, While error is: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.id: palette[3] (tried for 10 second(s) with 500 milliseconds interval)
+2021-12-12 05:14:05 ERROR Log:44 - Failed to click on element for object: violetColor, While error is: org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AEADLT08457', ip: '192.168.0.165', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:\Users\pierre.shokry\Idea..., appPackage: com.home.button.bottom, autoGrantPermissions: true, automationName: UiAutomator2, databaseEnabled: false, desired: {app: C:\Users\pierre.shokry\Idea..., autoGrantPermissions: true, automationName: UiAutomator2, deviceName: Android Emulator, fullReset: true, platformName: android, platformVersion: 10.0}, deviceApiLevel: 29, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 560, deviceScreenSize: 1440x2560, deviceUDID: emulator-5554, fullReset: true, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3.5, platform: LINUX, platformName: Android, platformVersion: 10, statBarHeight: 84, takesScreenshot: true, viewportRect: {height: 2308, left: 0, top: 84, width: 1440}, warnings: {}, webStorageEnabled: false}
+Session ID: 1617f9a2-59ea-490d-9f04-52f08e8d0fbe
+*** Element info: {Using=id, value=palette[3]}
+2021-12-12 05:14:05 INFO  Log:32 - *** Executed FifthTest test successfully ***
+2021-12-12 05:14:06 INFO  Log:32 - *** Test execution of FifthTest failed ***
+2021-12-12 05:14:08 INFO  Log:32 - *** Test Suite Rain ending ***
+2021-12-12 05:31:24 INFO  Log:32 - *** Test Suite Rain started ***
+2021-12-12 05:31:42 INFO  Log:32 - Object repo loaded
+2021-12-12 05:31:43 INFO  Log:32 - *** Running test method firstTest ***
+2021-12-12 05:31:44 INFO  Log:32 - Started recording
+2021-12-12 05:31:44 INFO  Log:16 - ****************************************************************************************
+2021-12-12 05:31:44 INFO  Log:18 - ****************************************************************************************
+2021-12-12 05:31:44 INFO  Log:20 - $$$$  Complete all the steps when launching the app for the first time and navigate to the Dashboard $$$$
+2021-12-12 05:31:44 INFO  Log:22 - ****************************************************************************************
+2021-12-12 05:31:44 INFO  Log:24 - ****************************************************************************************
+2021-12-12 05:31:44 INFO  Log:32 - Waiting visibility of element for object: homeScreen
+2021-12-12 05:31:44 INFO  Log:32 - Clicking on element for object: homeScreen
+2021-12-12 05:31:44 INFO  Log:32 - Element is displayed for object: centerIcon
+2021-12-12 05:31:45 INFO  Log:32 - Element is displayed for object: centerIcon
+2021-12-12 05:31:45 INFO  Log:32 - *** Executed firstTest test successfully ***
+2021-12-12 05:31:47 INFO  Log:32 - Stopped recording and clip is downloaded
+2021-12-12 05:31:55 INFO  Log:32 - *** Test Suite Rain ending ***
+2021-12-12 05:39:30 INFO  Log:32 - *** Test Suite Rain started ***
+2021-12-12 05:39:47 INFO  Log:32 - Object repo loaded
+2021-12-12 05:39:48 INFO  Log:32 - *** Running test method firstTest ***
+2021-12-12 05:39:49 INFO  Log:32 - Started recording
+2021-12-12 05:39:49 INFO  Log:16 - ****************************************************************************************
+2021-12-12 05:39:49 INFO  Log:18 - ****************************************************************************************
+2021-12-12 05:39:49 INFO  Log:20 - $$$$  Complete all the steps when launching the app for the first time and navigate to the Dashboard $$$$
+2021-12-12 05:39:49 INFO  Log:22 - ****************************************************************************************
+2021-12-12 05:39:49 INFO  Log:24 - ****************************************************************************************
+2021-12-12 05:39:50 ERROR Log:44 - Failed to find element for object: homeScreen, While error is: java.lang.NullPointerException
+2021-12-12 05:39:50 INFO  Log:32 - Clicking on element for object: homeScreen
+2021-12-12 05:39:50 INFO  Log:32 - Element is displayed for object: centerIcon
+2021-12-12 05:39:50 INFO  Log:32 - Element is displayed for object: centerIcon
+2021-12-12 05:39:50 INFO  Log:32 - *** Executed firstTest test successfully ***
+2021-12-12 05:39:52 INFO  Log:32 - Stopped recording and clip is downloaded
+2021-12-12 05:39:59 INFO  Log:32 - *** Test Suite Rain ending ***
+2021-12-12 06:01:23 INFO  Log:32 - *** Test Suite Rain started ***
+2021-12-12 06:01:45 INFO  Log:32 - Object repo loaded
+2021-12-12 06:01:46 INFO  Log:32 - *** Running test method firstTest ***
+2021-12-12 06:01:47 INFO  Log:32 - Started recording
+2021-12-12 06:01:47 INFO  Log:16 - ****************************************************************************************
+2021-12-12 06:01:47 INFO  Log:18 - ****************************************************************************************
+2021-12-12 06:01:47 INFO  Log:20 - $$$$  Complete all the steps when launching the app for the first time and navigate to the Dashboard $$$$
+2021-12-12 06:01:47 INFO  Log:22 - ****************************************************************************************
+2021-12-12 06:01:47 INFO  Log:24 - ****************************************************************************************
+2021-12-12 06:01:48 ERROR Log:44 - Failed to find element for object: homeScreen, While error is: java.lang.NullPointerException
+2021-12-12 06:01:48 INFO  Log:32 - Clicking on element for object: homeScreen
+2021-12-12 06:01:48 INFO  Log:32 - Element is displayed for object: centerIcon
+2021-12-12 06:01:48 INFO  Log:32 - Element is displayed for object: centerIcon
+2021-12-12 06:01:48 INFO  Log:32 - *** Executed firstTest test successfully ***
+2021-12-12 06:01:52 INFO  Log:32 - Stopped recording and clip is downloaded
+2021-12-12 06:01:59 INFO  Log:32 - *** Test Suite Rain ending ***
+2021-12-12 06:10:40 INFO  Log:32 - *** Test Suite Rain started ***
+2021-12-12 06:10:58 INFO  Log:32 - Object repo loaded
+2021-12-12 06:10:59 INFO  Log:32 - *** Running test method firstTest ***
+2021-12-12 06:11:00 INFO  Log:32 - Started recording
+2021-12-12 06:11:00 INFO  Log:16 - ****************************************************************************************
+2021-12-12 06:11:00 INFO  Log:18 - ****************************************************************************************
+2021-12-12 06:11:00 INFO  Log:20 - $$$$  Complete all the steps when launching the app for the first time and navigate to the Dashboard $$$$
+2021-12-12 06:11:00 INFO  Log:22 - ****************************************************************************************
+2021-12-12 06:11:00 INFO  Log:24 - ****************************************************************************************
+2021-12-12 06:11:01 INFO  Log:32 - Waiting visibility of element for object: homeScreen
+2021-12-12 06:11:01 INFO  Log:32 - Clicking on element for object: homeScreen
+2021-12-12 06:11:01 INFO  Log:32 - Element is displayed for object: centerIcon
+2021-12-12 06:11:01 INFO  Log:32 - Element is displayed for object: centerIcon
+2021-12-12 06:11:01 INFO  Log:32 - *** Executed firstTest test successfully ***
+2021-12-12 06:11:03 INFO  Log:32 - Stopped recording and clip is downloaded
+2021-12-12 06:11:10 INFO  Log:32 - *** Test Suite Rain ending ***
+2021-12-12 06:17:09 INFO  Log:32 - *** Test Suite Rain started ***
+2021-12-12 06:17:27 INFO  Log:32 - Object repo loaded
+2021-12-12 06:17:28 INFO  Log:32 - *** Running test method firstTest ***
+2021-12-12 06:17:29 INFO  Log:32 - Started recording
+2021-12-12 06:17:29 INFO  Log:16 - ****************************************************************************************
+2021-12-12 06:17:29 INFO  Log:18 - ****************************************************************************************
+2021-12-12 06:17:29 INFO  Log:20 - $$$$  Complete all the steps when launching the app for the first time and navigate to the Dashboard $$$$
+2021-12-12 06:17:29 INFO  Log:22 - ****************************************************************************************
+2021-12-12 06:17:29 INFO  Log:24 - ****************************************************************************************
+2021-12-12 06:17:30 INFO  Log:32 - Waiting visibility of element for object: homeScreen
+2021-12-12 06:17:30 INFO  Log:32 - Clicking on element for object: homeScreen
+2021-12-12 06:17:30 INFO  Log:32 - Element is displayed for object: centerIcon
+2021-12-12 06:17:30 INFO  Log:32 - Element is displayed for object: centerIcon
+2021-12-12 06:17:30 INFO  Log:32 - *** Executed firstTest test successfully ***
+2021-12-12 06:17:32 INFO  Log:32 - Stopped recording and clip is downloaded
+2021-12-12 06:17:39 INFO  Log:32 - *** Test Suite Rain ending ***
+2021-12-12 06:35:12 INFO  Log:32 - *** Test Suite Rain started ***
+2021-12-12 06:35:30 INFO  Log:32 - Object repo loaded
+2021-12-12 06:35:31 INFO  Log:32 - *** Running test method FifthTest ***
+2021-12-12 06:35:33 INFO  Log:32 - Started recording
+2021-12-12 06:35:33 INFO  Log:16 - ****************************************************************************************
+2021-12-12 06:35:33 INFO  Log:18 - ****************************************************************************************
+2021-12-12 06:35:33 INFO  Log:20 - $$$$  Select button color under appearance and select violet color $$$$
+2021-12-12 06:35:33 INFO  Log:22 - ****************************************************************************************
+2021-12-12 06:35:33 INFO  Log:24 - ****************************************************************************************
+2021-12-12 06:35:33 INFO  Log:32 - Waiting visibility of element for object: homeScreen
+2021-12-12 06:35:33 INFO  Log:32 - Clicking on element for object: homeScreen
+2021-12-12 06:35:33 INFO  Log:32 - Waiting visibility of element for object: ButtonColorBtn
+2021-12-12 06:35:34 INFO  Log:32 - Clicking on element for object: ButtonColorBtn
+2021-12-12 06:35:44 ERROR Log:44 - Failed to find element for object: violetColor, While error is: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.id: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.support.v7.widget.LinearLayoutCompat/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.LinearLayout[1]/android.widget.FrameLayout[4] (tried for 10 second(s) with 500 milliseconds interval)
+2021-12-12 06:35:44 ERROR Log:44 - Failed to click on element for object: violetColor, While error is: org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AEADLT08457', ip: '192.168.0.165', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: C:\Users\pierre.shokry\Idea..., appPackage: com.home.button.bottom, autoGrantPermissions: true, automationName: UiAutomator2, databaseEnabled: false, desired: {app: C:\Users\pierre.shokry\Idea..., autoGrantPermissions: true, automationName: UiAutomator2, deviceName: Android Emulator, fullReset: true, platformName: android, platformVersion: 10.0}, deviceApiLevel: 29, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 560, deviceScreenSize: 1440x2560, deviceUDID: emulator-5554, fullReset: true, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3.5, platform: LINUX, platformName: Android, platformVersion: 10, statBarHeight: 84, takesScreenshot: true, viewportRect: {height: 2308, left: 0, top: 84, width: 1440}, warnings: {}, webStorageEnabled: false}
+Session ID: 82188d0b-4ed0-4e7a-bc16-ac657cb0b9ae
+*** Element info: {Using=id, value=/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.support.v7.widget.LinearLayoutCompat/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.LinearLayout[1]/android.widget.FrameLayout[4]}
+2021-12-12 06:35:44 INFO  Log:32 - *** Executed FifthTest test successfully ***
+2021-12-12 06:35:46 INFO  Log:32 - Stopped recording and clip is downloaded
+2021-12-12 06:35:54 INFO  Log:32 - *** Test Suite Rain ending ***
+2021-12-12 06:36:49 INFO  Log:32 - *** Test Suite Rain started ***
+2021-12-12 06:37:07 INFO  Log:32 - Object repo loaded
+2021-12-12 06:37:08 INFO  Log:32 - *** Running test method FifthTest ***
+2021-12-12 06:37:09 INFO  Log:32 - Started recording
+2021-12-12 06:37:09 INFO  Log:16 - ****************************************************************************************
+2021-12-12 06:37:09 INFO  Log:18 - ****************************************************************************************
+2021-12-12 06:37:09 INFO  Log:20 - $$$$  Select button color under appearance and select violet color $$$$
+2021-12-12 06:37:09 INFO  Log:22 - ****************************************************************************************
+2021-12-12 06:37:09 INFO  Log:24 - ****************************************************************************************
+2021-12-12 06:37:10 INFO  Log:32 - Waiting visibility of element for object: homeScreen
+2021-12-12 06:37:10 INFO  Log:32 - Clicking on element for object: homeScreen
+2021-12-12 06:37:10 INFO  Log:32 - Waiting visibility of element for object: ButtonColorBtn
+2021-12-12 06:37:10 INFO  Log:32 - Clicking on element for object: ButtonColorBtn
+2021-12-12 06:37:21 ERROR Log:44 - Failed to find element for object: violetColor, While error is: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.id: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.support.v7.widget.LinearLayoutCompat/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.LinearLayout[1]/android.widget.FrameLayout[4] (tried for 10 second(s) with 500 milliseconds interval)
+2021-12-12 06:37:21 INFO  Log:32 - Clicking on element for object: violetColor
+2021-12-12 06:37:21 INFO  Log:32 - *** Executed FifthTest test successfully ***
+2021-12-12 06:37:24 INFO  Log:32 - Stopped recording and clip is downloaded
+2021-12-12 06:37:32 INFO  Log:32 - *** Test Suite Rain ending ***
+2021-12-12 06:44:37 INFO  Log:32 - *** Test Suite Rain started ***
+2021-12-12 06:44:55 INFO  Log:32 - Object repo loaded
+2021-12-12 06:44:56 INFO  Log:32 - *** Running test method fifthTest ***
+2021-12-12 06:44:57 INFO  Log:32 - Started recording
+2021-12-12 06:44:57 INFO  Log:16 - ****************************************************************************************
+2021-12-12 06:44:57 INFO  Log:18 - ****************************************************************************************
+2021-12-12 06:44:57 INFO  Log:20 - $$$$  Select button color under appearance and select violet color $$$$
+2021-12-12 06:44:57 INFO  Log:22 - ****************************************************************************************
+2021-12-12 06:44:57 INFO  Log:24 - ****************************************************************************************
+2021-12-12 06:44:58 INFO  Log:32 - Waiting visibility of element for object: homeScreen
+2021-12-12 06:44:58 INFO  Log:32 - Clicking on element for object: homeScreen
+2021-12-12 06:44:58 INFO  Log:32 - Waiting visibility of element for object: ButtonColorBtn
+2021-12-12 06:44:58 INFO  Log:32 - Clicking on element for object: ButtonColorBtn
+2021-12-12 06:44:59 INFO  Log:32 - Clicking on element for object: violetColor
+2021-12-12 06:44:59 INFO  Log:32 - *** Executed fifthTest test successfully ***
+2021-12-12 06:45:02 INFO  Log:32 - Stopped recording and clip is downloaded
+2021-12-12 06:45:09 INFO  Log:32 - *** Test Suite Rain ending ***
+2021-12-12 06:46:41 INFO  Log:32 - *** Test Suite Rain started ***
+2021-12-12 06:47:00 INFO  Log:32 - Object repo loaded
+2021-12-12 06:47:01 INFO  Log:32 - *** Running test method fifthTest ***
+2021-12-12 06:47:02 INFO  Log:32 - Started recording
+2021-12-12 06:47:02 INFO  Log:16 - ****************************************************************************************
+2021-12-12 06:47:02 INFO  Log:18 - ****************************************************************************************
+2021-12-12 06:47:02 INFO  Log:20 - $$$$  Select button color under appearance and select violet color $$$$
+2021-12-12 06:47:02 INFO  Log:22 - ****************************************************************************************
+2021-12-12 06:47:02 INFO  Log:24 - ****************************************************************************************
+2021-12-12 06:47:02 INFO  Log:32 - Waiting visibility of element for object: homeScreen
+2021-12-12 06:47:02 INFO  Log:32 - Clicking on element for object: homeScreen
+2021-12-12 06:47:03 INFO  Log:32 - Waiting visibility of element for object: ButtonColorBtn
+2021-12-12 06:47:03 INFO  Log:32 - Clicking on element for object: ButtonColorBtn
+2021-12-12 06:47:04 INFO  Log:32 - Clicking on element for object: violetColor
+2021-12-12 06:47:04 INFO  Log:32 - *** Executed fifthTest test successfully ***
+2021-12-12 06:47:06 INFO  Log:32 - Stopped recording and clip is downloaded
+2021-12-12 06:47:13 INFO  Log:32 - *** Test Suite Rain ending ***
+2021-12-12 06:47:50 INFO  Log:32 - *** Test Suite Rain started ***
+2021-12-12 06:48:07 INFO  Log:32 - Object repo loaded
+2021-12-12 06:48:08 INFO  Log:32 - *** Running test method fourthTest ***
+2021-12-12 06:48:09 INFO  Log:32 - Started recording
+2021-12-12 06:48:09 INFO  Log:16 - ****************************************************************************************
+2021-12-12 06:48:09 INFO  Log:18 - ****************************************************************************************
+2021-12-12 06:48:09 INFO  Log:20 - $$$$  Select Vibration Strength under behavior and set the vibration strength to 100 $$$$
+2021-12-12 06:48:09 INFO  Log:22 - ****************************************************************************************
+2021-12-12 06:48:09 INFO  Log:24 - ****************************************************************************************
+2021-12-12 06:48:09 INFO  Log:32 - Waiting visibility of element for object: homeScreen
+2021-12-12 06:48:10 INFO  Log:32 - Clicking on element for object: homeScreen
+2021-12-12 06:48:13 INFO  Log:32 - Scrolling till element is visible for object: vibrationStrengthLbl
+2021-12-12 06:48:14 INFO  Log:32 - Waiting visibility of element for object: vibrationStrengthBtn
+2021-12-12 06:48:14 INFO  Log:32 - Clicking on element for object: vibrationStrengthBtn
+2021-12-12 06:48:15 INFO  Log:32 - Waiting visibility of element for object: seekBar
+2021-12-12 06:48:15 INFO  Log:32 - Seekbar start point is: 296
+2021-12-12 06:48:15 INFO  Log:32 - Seekbar end point is: 1143
+2021-12-12 06:48:15 INFO  Log:32 - Seekbar vertical location is: 1259
+2021-12-12 06:48:18 INFO  Log:32 - Moving seek bar at 1143 In X direction for object: seekBar
+2021-12-12 06:48:18 INFO  Log:32 - Waiting visibility of element for object: okBtn
+2021-12-12 06:48:19 INFO  Log:32 - Clicking on element for object: okBtn
+2021-12-12 06:48:20 INFO  Log:32 - Waiting visibility of element for object: seekBarValue
+2021-12-12 06:48:20 INFO  Log:32 - Getting text attribute for object: seekBarValue
+2021-12-12 06:48:20 INFO  Log:32 - *** Executed fourthTest test successfully ***
+2021-12-12 06:48:22 INFO  Log:32 - Stopped recording and clip is downloaded
+2021-12-12 06:48:30 INFO  Log:32 - *** Test Suite Rain ending ***
+2021-12-12 06:51:10 INFO  Log:32 - *** Test Suite Rain started ***
+2021-12-12 06:51:28 INFO  Log:32 - Object repo loaded
+2021-12-12 06:51:28 INFO  Log:32 - *** Running test method fourthTest ***
+2021-12-12 06:51:30 INFO  Log:32 - Started recording
+2021-12-12 06:51:30 INFO  Log:16 - ****************************************************************************************
+2021-12-12 06:51:30 INFO  Log:18 - ****************************************************************************************
+2021-12-12 06:51:30 INFO  Log:20 - $$$$  Select Vibration Strength under behavior and set the vibration strength to 100 $$$$
+2021-12-12 06:51:30 INFO  Log:22 - ****************************************************************************************
+2021-12-12 06:51:30 INFO  Log:24 - ****************************************************************************************
+2021-12-12 06:51:30 INFO  Log:32 - Waiting visibility of element for object: homeScreen
+2021-12-12 06:51:31 INFO  Log:32 - Clicking on element for object: homeScreen
+2021-12-12 06:51:34 INFO  Log:32 - Scrolling till element is visible for object: vibrationStrengthLbl
+2021-12-12 06:51:34 INFO  Log:32 - Waiting visibility of element for object: vibrationStrengthBtn
+2021-12-12 06:51:35 INFO  Log:32 - Clicking on element for object: vibrationStrengthBtn
+2021-12-12 06:51:35 INFO  Log:32 - Waiting visibility of element for object: seekBar
+2021-12-12 06:51:35 INFO  Log:32 - Seekbar start point is: 296
+2021-12-12 06:51:36 INFO  Log:32 - Seekbar end point is: 1143
+2021-12-12 06:51:36 INFO  Log:32 - Seekbar vertical location is: 1259
+2021-12-12 06:51:38 INFO  Log:32 - Moving seek bar at 1143 In X direction for object: seekBar
+2021-12-12 06:51:39 INFO  Log:32 - Waiting visibility of element for object: okBtn
+2021-12-12 06:51:39 INFO  Log:32 - Clicking on element for object: okBtn
+2021-12-12 06:51:40 INFO  Log:32 - Waiting visibility of element for object: seekBarValue
+2021-12-12 06:51:40 INFO  Log:32 - Getting text attribute for object: seekBarValue
+2021-12-12 06:51:40 INFO  Log:32 - *** Executed fourthTest test successfully ***
+2021-12-12 06:51:43 INFO  Log:32 - Stopped recording and clip is downloaded
+2021-12-12 06:51:51 INFO  Log:32 - *** Test Suite Rain ending ***
+2021-12-12 07:38:30 INFO  Log:32 - *** Test Suite Rain started ***
+2021-12-12 07:39:00 INFO  Log:32 - Object repo loaded
+2021-12-12 07:39:02 INFO  Log:32 - *** Running test method fourthTest ***
+2021-12-12 07:39:03 INFO  Log:32 - Started recording
+2021-12-12 07:39:03 INFO  Log:16 - ****************************************************************************************
+2021-12-12 07:39:03 INFO  Log:18 - ****************************************************************************************
+2021-12-12 07:39:03 INFO  Log:20 - $$$$  Select Vibration Strength under behavior and set the vibration strength to 100 $$$$
+2021-12-12 07:39:03 INFO  Log:22 - ****************************************************************************************
+2021-12-12 07:39:03 INFO  Log:24 - ****************************************************************************************
+2021-12-12 07:39:04 INFO  Log:32 - Waiting visibility of element for object: homeScreen
+2021-12-12 07:39:04 INFO  Log:32 - Clicking on element for object: homeScreen
+2021-12-12 07:39:08 INFO  Log:32 - Scrolling till element is visible for object: vibrationStrengthLbl
+2021-12-12 07:39:09 INFO  Log:32 - Waiting visibility of element for object: vibrationStrengthBtn
+2021-12-12 07:39:09 INFO  Log:32 - Clicking on element for object: vibrationStrengthBtn
+2021-12-12 07:39:10 INFO  Log:32 - Waiting visibility of element for object: seekBar
+2021-12-12 07:39:10 INFO  Log:32 - Seekbar start point is: 296
+2021-12-12 07:39:10 INFO  Log:32 - Seekbar end point is: 1143
+2021-12-12 07:39:10 INFO  Log:32 - Seekbar vertical location is: 1259
+2021-12-12 07:39:13 INFO  Log:32 - Moving seek bar at 1143 In X direction for object: seekBar
+2021-12-12 07:39:13 INFO  Log:32 - Waiting visibility of element for object: okBtn
+2021-12-12 07:39:14 INFO  Log:32 - Clicking on element for object: okBtn
+2021-12-12 07:39:15 INFO  Log:32 - Waiting visibility of element for object: seekBarValue
+2021-12-12 07:39:15 INFO  Log:32 - Getting text attribute for object: seekBarValue
+2021-12-12 07:39:15 INFO  Log:32 - *** Test execution of fourthTest failed ***
+2021-12-12 07:39:18 INFO  Log:32 - Stopped recording and clip is downloaded
+2021-12-12 07:39:25 INFO  Log:32 - *** Test Suite Rain ending ***
+2021-12-12 07:41:29 INFO  Log:32 - *** Test Suite Rain started ***
+2021-12-12 07:41:53 INFO  Log:32 - Object repo loaded
+2021-12-12 07:41:54 INFO  Log:32 - *** Running test method thirdTest ***
+2021-12-12 07:41:56 INFO  Log:32 - Started recording
+2021-12-12 07:41:56 INFO  Log:16 - ****************************************************************************************
+2021-12-12 07:41:56 INFO  Log:18 - ****************************************************************************************
+2021-12-12 07:41:56 INFO  Log:20 - $$$$  Scroll down to the bottom and uncheck the show notification checkbox. $$$$
+2021-12-12 07:41:56 INFO  Log:22 - ****************************************************************************************
+2021-12-12 07:41:56 INFO  Log:24 - ****************************************************************************************
+2021-12-12 07:41:56 INFO  Log:32 - Waiting visibility of element for object: homeScreen
+2021-12-12 07:41:56 INFO  Log:32 - Clicking on element for object: homeScreen
+2021-12-12 07:42:01 INFO  Log:32 - Scrolling till element is visible for object: showNotificationLbl
+2021-12-12 07:42:01 INFO  Log:32 - Waiting visibility of element for object: notificationCheckBox
+2021-12-12 07:42:01 INFO  Log:32 - Clicking on element for object: notificationCheckBox
+2021-12-12 07:42:02 INFO  Log:32 - Getting selected attribute for object: notificationCheckBox
+2021-12-12 07:42:02 INFO  Log:32 - *** Test execution of thirdTest failed ***
+2021-12-12 07:42:05 INFO  Log:32 - Stopped recording and clip is downloaded
+2021-12-12 07:42:12 INFO  Log:32 - *** Test Suite Rain ending ***
+2021-12-12 07:43:56 INFO  Log:32 - *** Test Suite Rain started ***
+2021-12-12 07:44:19 INFO  Log:32 - Object repo loaded
+2021-12-12 07:44:20 INFO  Log:32 - *** Running test method secondTest ***
+2021-12-12 07:44:22 INFO  Log:32 - Started recording
+2021-12-12 07:44:22 INFO  Log:16 - ****************************************************************************************
+2021-12-12 07:44:22 INFO  Log:18 - ****************************************************************************************
+2021-12-12 07:44:22 INFO  Log:20 - $$$$  Select Action on click under Actions and print all the elements in the radio selection list view $$$$
+2021-12-12 07:44:22 INFO  Log:22 - ****************************************************************************************
+2021-12-12 07:44:22 INFO  Log:24 - ****************************************************************************************
+2021-12-12 07:44:22 INFO  Log:32 - Waiting visibility of element for object: homeScreen
+2021-12-12 07:44:22 INFO  Log:32 - Clicking on element for object: homeScreen
+2021-12-12 07:44:23 INFO  Log:32 - Waiting visibility of element for object: actionOnClickBtn
+2021-12-12 07:44:23 INFO  Log:32 - Clicking on element for object: actionOnClickBtn
+2021-12-12 07:44:24 INFO  Log:32 - Getting list of elements for object: radioList
+2021-12-12 07:44:25 INFO  Log:32 - Reading list of elements, list is: [None, Home, Recent applications, Pull down notification, Device settings, Selected application, [Experimental] Back, [PRO] Screenshot, [PRO] Lock the screen, [PRO] Quick settings, [PRO] Power menu]
+2021-12-12 07:44:25 INFO  Log:32 - *** Executed secondTest test successfully ***
+2021-12-12 07:44:27 INFO  Log:32 - Stopped recording and clip is downloaded
+2021-12-12 07:44:38 INFO  Log:32 - *** Test Suite Rain ending ***
+2021-12-12 07:46:36 INFO  Log:32 - *** Test Suite Rain started ***
+2021-12-12 07:46:58 INFO  Log:32 - Object repo loaded
+2021-12-12 07:46:59 INFO  Log:32 - *** Running test method secondTest ***
+2021-12-12 07:47:00 INFO  Log:32 - Started recording
+2021-12-12 07:47:00 INFO  Log:16 - ****************************************************************************************
+2021-12-12 07:47:00 INFO  Log:18 - ****************************************************************************************
+2021-12-12 07:47:00 INFO  Log:20 - $$$$  Select Action on click under Actions and print all the elements in the radio selection list view $$$$
+2021-12-12 07:47:00 INFO  Log:22 - ****************************************************************************************
+2021-12-12 07:47:00 INFO  Log:24 - ****************************************************************************************
+2021-12-12 07:47:01 INFO  Log:32 - Waiting visibility of element for object: homeScreen
+2021-12-12 07:47:01 INFO  Log:32 - Clicking on element for object: homeScreen
+2021-12-12 07:47:01 INFO  Log:32 - Waiting visibility of element for object: actionOnClickBtn
+2021-12-12 07:47:01 INFO  Log:32 - Clicking on element for object: actionOnClickBtn
+2021-12-12 07:47:02 INFO  Log:32 - Getting list of elements for object: radioList
+2021-12-12 07:47:03 INFO  Log:32 - Reading list of elements, list is: [None, Home, Recent applications, Pull down notification, Device settings, Selected application, [Experimental] Back, [PRO] Screenshot, [PRO] Lock the screen, [PRO] Quick settings, [PRO] Power menu]
+2021-12-12 07:47:03 INFO  Log:32 - *** Test execution of secondTest failed ***
+2021-12-12 07:47:05 INFO  Log:32 - Stopped recording and clip is downloaded
+2021-12-12 07:47:13 INFO  Log:32 - *** Test Suite Rain ending ***
+2021-12-12 07:53:09 INFO  Log:32 - *** Test Suite Rain started ***
+2021-12-12 07:53:32 INFO  Log:32 - Object repo loaded
+2021-12-12 07:53:33 INFO  Log:32 - *** Running test method firstTest ***
+2021-12-12 07:53:35 INFO  Log:32 - Started recording
+2021-12-12 07:53:35 INFO  Log:16 - ****************************************************************************************
+2021-12-12 07:53:35 INFO  Log:18 - ****************************************************************************************
+2021-12-12 07:53:35 INFO  Log:20 - $$$$  Complete all the steps when launching the app for the first time and navigate to the Dashboard $$$$
+2021-12-12 07:53:35 INFO  Log:22 - ****************************************************************************************
+2021-12-12 07:53:35 INFO  Log:24 - ****************************************************************************************
+2021-12-12 07:53:36 INFO  Log:32 - Waiting visibility of element for object: homeScreen
+2021-12-12 07:53:36 INFO  Log:32 - Clicking on element for object: homeScreen
+2021-12-12 07:53:36 ERROR Log:44 - Element is not displayed for object: centerIcon
+2021-12-12 07:53:36 ERROR Log:44 - Element is not displayed for object: centerIcon
+2021-12-12 07:53:36 INFO  Log:32 - *** Test execution of firstTest failed ***
+2021-12-12 07:53:38 INFO  Log:32 - Stopped recording and clip is downloaded
+2021-12-12 07:53:47 INFO  Log:32 - *** Test Suite Rain ending ***
+2021-12-12 08:01:40 INFO  Log:32 - *** Test Suite Rain started ***
+2021-12-12 08:01:52 INFO  Log:32 - Object repo loaded
+2021-12-12 08:01:53 INFO  Log:32 - *** Running test method firstTest ***
+2021-12-12 08:01:53 INFO  Log:32 - Started recording
+2021-12-12 08:01:53 INFO  Log:16 - ****************************************************************************************
+2021-12-12 08:01:53 INFO  Log:18 - ****************************************************************************************
+2021-12-12 08:01:53 INFO  Log:20 - $$$$  Complete all the steps when launching the app for the first time and navigate to the Dashboard $$$$
+2021-12-12 08:01:53 INFO  Log:22 - ****************************************************************************************
+2021-12-12 08:01:53 INFO  Log:24 - ****************************************************************************************
+2021-12-12 08:01:54 INFO  Log:32 - Waiting visibility of element for object: homeScreen
+2021-12-12 08:01:54 INFO  Log:32 - Clicking on element for object: homeScreen
+2021-12-12 08:01:54 INFO  Log:32 - Element is displayed for object: centerIcon
+2021-12-12 08:01:54 INFO  Log:32 - *** Executed firstTest test successfully ***
+2021-12-12 08:01:56 INFO  Log:32 - Stopped recording and clip is downloaded
+2021-12-12 08:01:59 INFO  Log:32 - *** Running test method secondTest ***
+2021-12-12 08:02:00 INFO  Log:32 - Started recording
+2021-12-12 08:02:00 INFO  Log:16 - ****************************************************************************************
+2021-12-12 08:02:00 INFO  Log:18 - ****************************************************************************************
+2021-12-12 08:02:00 INFO  Log:20 - $$$$  Select Action on click under Actions and print all the elements in the radio selection list view $$$$
+2021-12-12 08:02:00 INFO  Log:22 - ****************************************************************************************
+2021-12-12 08:02:00 INFO  Log:24 - ****************************************************************************************
+2021-12-12 08:02:01 INFO  Log:32 - Waiting visibility of element for object: homeScreen
+2021-12-12 08:02:01 INFO  Log:32 - Clicking on element for object: homeScreen
+2021-12-12 08:02:01 INFO  Log:32 - Waiting visibility of element for object: actionOnClickBtn
+2021-12-12 08:02:02 INFO  Log:32 - Clicking on element for object: actionOnClickBtn
+2021-12-12 08:02:02 INFO  Log:32 - Getting list of elements for object: radioList
+2021-12-12 08:02:02 INFO  Log:32 - Reading list of elements, list is: [None, Home, Recent applications, Pull down notification, Device settings, Selected application, [Experimental] Back, [PRO] Screenshot, [PRO] Lock the screen, [PRO] Quick settings, [PRO] Power menu]
+2021-12-12 08:02:02 INFO  Log:32 - *** Executed secondTest test successfully ***
+2021-12-12 08:02:03 INFO  Log:32 - Stopped recording and clip is downloaded
+2021-12-12 08:02:07 INFO  Log:32 - *** Running test method thirdTest ***
+2021-12-12 08:02:08 INFO  Log:32 - Started recording
+2021-12-12 08:02:08 INFO  Log:16 - ****************************************************************************************
+2021-12-12 08:02:08 INFO  Log:18 - ****************************************************************************************
+2021-12-12 08:02:08 INFO  Log:20 - $$$$  Scroll down to the bottom and uncheck the show notification checkbox $$$$
+2021-12-12 08:02:08 INFO  Log:22 - ****************************************************************************************
+2021-12-12 08:02:08 INFO  Log:24 - ****************************************************************************************
+2021-12-12 08:02:08 INFO  Log:32 - Waiting visibility of element for object: homeScreen
+2021-12-12 08:02:08 INFO  Log:32 - Clicking on element for object: homeScreen
+2021-12-12 08:02:11 INFO  Log:32 - Scrolling till element is visible for object: showNotificationLbl
+2021-12-12 08:02:12 INFO  Log:32 - Waiting visibility of element for object: notificationCheckBox
+2021-12-12 08:02:12 INFO  Log:32 - Clicking on element for object: notificationCheckBox
+2021-12-12 08:02:12 INFO  Log:32 - Getting selected attribute for object: notificationCheckBox
+2021-12-12 08:02:12 INFO  Log:32 - *** Executed thirdTest test successfully ***
+2021-12-12 08:02:14 INFO  Log:32 - Stopped recording and clip is downloaded
+2021-12-12 08:02:18 INFO  Log:32 - *** Running test method fourthTest ***
+2021-12-12 08:02:19 INFO  Log:32 - Started recording
+2021-12-12 08:02:19 INFO  Log:16 - ****************************************************************************************
+2021-12-12 08:02:19 INFO  Log:18 - ****************************************************************************************
+2021-12-12 08:02:19 INFO  Log:20 - $$$$  Select Vibration Strength under behavior and set the vibration strength to 100 $$$$
+2021-12-12 08:02:19 INFO  Log:22 - ****************************************************************************************
+2021-12-12 08:02:19 INFO  Log:24 - ****************************************************************************************
+2021-12-12 08:02:19 INFO  Log:32 - Waiting visibility of element for object: homeScreen
+2021-12-12 08:02:19 INFO  Log:32 - Clicking on element for object: homeScreen
+2021-12-12 08:02:22 INFO  Log:32 - Scrolling till element is visible for object: vibrationStrengthLbl
+2021-12-12 08:02:22 INFO  Log:32 - Waiting visibility of element for object: vibrationStrengthBtn
+2021-12-12 08:02:22 INFO  Log:32 - Clicking on element for object: vibrationStrengthBtn
+2021-12-12 08:02:23 INFO  Log:32 - Waiting visibility of element for object: seekBar
+2021-12-12 08:02:23 INFO  Log:32 - Seekbar start point is: 296
+2021-12-12 08:02:23 INFO  Log:32 - Seekbar end point is: 1143
+2021-12-12 08:02:23 INFO  Log:32 - Seekbar vertical location is: 1259
+2021-12-12 08:02:25 INFO  Log:32 - Moving seek bar at 1143 In X direction for object: seekBar
+2021-12-12 08:02:26 INFO  Log:32 - Waiting visibility of element for object: okBtn
+2021-12-12 08:02:26 INFO  Log:32 - Clicking on element for object: okBtn
+2021-12-12 08:02:27 INFO  Log:32 - Waiting visibility of element for object: seekBarValue
+2021-12-12 08:02:27 INFO  Log:32 - Getting text attribute for object: seekBarValue
+2021-12-12 08:02:27 INFO  Log:32 - *** Executed fourthTest test successfully ***
+2021-12-12 08:02:29 INFO  Log:32 - Stopped recording and clip is downloaded
+2021-12-12 08:02:32 INFO  Log:32 - *** Running test method fifthTest ***
+2021-12-12 08:02:33 INFO  Log:32 - Started recording
+2021-12-12 08:02:33 INFO  Log:16 - ****************************************************************************************
+2021-12-12 08:02:33 INFO  Log:18 - ****************************************************************************************
+2021-12-12 08:02:33 INFO  Log:20 - $$$$  Select button color under appearance and select violet color $$$$
+2021-12-12 08:02:33 INFO  Log:22 - ****************************************************************************************
+2021-12-12 08:02:33 INFO  Log:24 - ****************************************************************************************
+2021-12-12 08:02:33 INFO  Log:32 - Waiting visibility of element for object: homeScreen
+2021-12-12 08:02:34 INFO  Log:32 - Clicking on element for object: homeScreen
+2021-12-12 08:02:34 INFO  Log:32 - Waiting visibility of element for object: ButtonColorBtn
+2021-12-12 08:02:34 INFO  Log:32 - Clicking on element for object: ButtonColorBtn
+2021-12-12 08:02:35 INFO  Log:32 - Clicking on element for object: violetColor
+2021-12-12 08:02:35 ERROR Log:44 - Element is not displayed for object: 
+2021-12-12 08:02:35 INFO  Log:32 - *** Test execution of fifthTest failed ***
+2021-12-12 08:02:37 INFO  Log:32 - Stopped recording and clip is downloaded
+2021-12-12 08:02:42 INFO  Log:32 - *** Test Suite Rain ending ***
+2021-12-12 08:08:02 INFO  Log:32 - *** Test Suite Rain started ***
+2021-12-12 08:08:12 INFO  Log:32 - Object repo loaded
+2021-12-12 08:08:12 INFO  Log:32 - *** Running test method fourthTest ***
+2021-12-12 08:08:13 INFO  Log:32 - Started recording
+2021-12-12 08:08:13 INFO  Log:16 - ****************************************************************************************
+2021-12-12 08:08:13 INFO  Log:18 - ****************************************************************************************
+2021-12-12 08:08:13 INFO  Log:20 - $$$$  Select Vibration Strength under behavior and set the vibration strength to 100 $$$$
+2021-12-12 08:08:13 INFO  Log:22 - ****************************************************************************************
+2021-12-12 08:08:13 INFO  Log:24 - ****************************************************************************************
+2021-12-12 08:08:13 INFO  Log:32 - Waiting visibility of element for object: homeScreen
+2021-12-12 08:08:14 INFO  Log:32 - Clicking on element for object: homeScreen
+2021-12-12 08:08:17 INFO  Log:32 - Scrolling till element is visible for object: vibrationStrengthLbl
+2021-12-12 08:08:17 INFO  Log:32 - Waiting visibility of element for object: vibrationStrengthBtn
+2021-12-12 08:08:17 INFO  Log:32 - Clicking on element for object: vibrationStrengthBtn
+2021-12-12 08:08:18 INFO  Log:32 - Waiting visibility of element for object: seekBar
+2021-12-12 08:08:18 INFO  Log:32 - Seekbar start point is: 296
+2021-12-12 08:08:18 INFO  Log:32 - Seekbar end point is: 1143
+2021-12-12 08:08:18 INFO  Log:32 - Seekbar vertical location is: 1259
+2021-12-12 08:08:20 INFO  Log:32 - Moving seek bar at 1143 In X direction for object: seekBar
+2021-12-12 08:08:21 INFO  Log:32 - Waiting visibility of element for object: okBtn
+2021-12-12 08:08:21 INFO  Log:32 - Clicking on element for object: okBtn
+2021-12-12 08:08:22 INFO  Log:32 - Waiting visibility of element for object: seekBarValue
+2021-12-12 08:08:22 INFO  Log:32 - Getting text attribute for object: seekBarValue
+2021-12-12 08:08:22 INFO  Log:32 - *** Test execution of fourthTest failed ***
+2021-12-12 08:08:23 INFO  Log:32 - Stopped recording and clip is downloaded
+2021-12-12 08:08:28 INFO  Log:32 - *** Test Suite Rain ending ***
+2021-12-12 08:11:36 INFO  Log:32 - *** Test Suite Rain started ***
+2021-12-12 08:11:46 INFO  Log:32 - Object repo loaded
+2021-12-12 08:11:47 INFO  Log:32 - *** Running test method fourthTest ***
+2021-12-12 08:11:48 INFO  Log:32 - Started recording
+2021-12-12 08:11:48 INFO  Log:16 - ****************************************************************************************
+2021-12-12 08:11:48 INFO  Log:18 - ****************************************************************************************
+2021-12-12 08:11:48 INFO  Log:20 - $$$$  Select Vibration Strength under behavior and set the vibration strength to 100 $$$$
+2021-12-12 08:11:48 INFO  Log:22 - ****************************************************************************************
+2021-12-12 08:11:48 INFO  Log:24 - ****************************************************************************************
+2021-12-12 08:11:48 INFO  Log:32 - Waiting visibility of element for object: homeScreen
+2021-12-12 08:11:48 INFO  Log:32 - Clicking on element for object: homeScreen
+2021-12-12 08:11:51 INFO  Log:32 - Scrolling till element is visible for object: vibrationStrengthLbl
+2021-12-12 08:11:51 INFO  Log:32 - Waiting visibility of element for object: vibrationStrengthBtn
+2021-12-12 08:11:51 INFO  Log:32 - Clicking on element for object: vibrationStrengthBtn
+2021-12-12 08:11:52 INFO  Log:32 - Waiting visibility of element for object: seekBar
+2021-12-12 08:11:52 INFO  Log:32 - Seekbar start point is: 296
+2021-12-12 08:11:52 INFO  Log:32 - Seekbar end point is: 1143
+2021-12-12 08:11:52 INFO  Log:32 - Seekbar vertical location is: 1259
+2021-12-12 08:11:54 INFO  Log:32 - Moving seek bar at 1143 In X direction for object: seekBar
+2021-12-12 08:11:55 INFO  Log:32 - Waiting visibility of element for object: okBtn
+2021-12-12 08:11:55 INFO  Log:32 - Clicking on element for object: okBtn
+2021-12-12 08:11:56 INFO  Log:32 - Waiting visibility of element for object: seekBarValue
+2021-12-12 08:11:56 INFO  Log:32 - Getting text attribute for object: seekBarValue
+2021-12-12 08:11:56 INFO  Log:32 - *** Test execution of fourthTest failed ***
+2021-12-12 08:11:58 INFO  Log:32 - Stopped recording and clip is downloaded
+2021-12-12 08:12:03 INFO  Log:32 - *** Test Suite Rain ending ***
+2021-12-12 08:14:36 INFO  Log:32 - *** Test Suite Rain started ***
+2021-12-12 08:14:45 INFO  Log:32 - Object repo loaded
+2021-12-12 08:14:46 INFO  Log:32 - *** Running test method firstTest ***
+2021-12-12 08:14:46 INFO  Log:32 - Started recording
+2021-12-12 08:14:46 INFO  Log:16 - ****************************************************************************************
+2021-12-12 08:14:46 INFO  Log:18 - ****************************************************************************************
+2021-12-12 08:14:46 INFO  Log:20 - $$$$  Complete all the steps when launching the app for the first time and navigate to the Dashboard $$$$
+2021-12-12 08:14:46 INFO  Log:22 - ****************************************************************************************
+2021-12-12 08:14:46 INFO  Log:24 - ****************************************************************************************
+2021-12-12 08:14:46 INFO  Log:32 - Waiting visibility of element for object: homeScreen
+2021-12-12 08:14:47 INFO  Log:32 - Clicking on element for object: homeScreen
+2021-12-12 08:14:47 INFO  Log:32 - Element is displayed for object: centerIcon
+2021-12-12 08:14:47 INFO  Log:32 - *** Executed firstTest test successfully ***
+2021-12-12 08:14:48 INFO  Log:32 - Stopped recording and clip is downloaded
+2021-12-12 08:14:52 INFO  Log:32 - *** Running test method secondTest ***
+2021-12-12 08:14:53 INFO  Log:32 - Started recording
+2021-12-12 08:14:53 INFO  Log:16 - ****************************************************************************************
+2021-12-12 08:14:53 INFO  Log:18 - ****************************************************************************************
+2021-12-12 08:14:53 INFO  Log:20 - $$$$  Select Action on click under Actions and print all the elements in the radio selection list view $$$$
+2021-12-12 08:14:53 INFO  Log:22 - ****************************************************************************************
+2021-12-12 08:14:53 INFO  Log:24 - ****************************************************************************************
+2021-12-12 08:14:53 INFO  Log:32 - Waiting visibility of element for object: homeScreen
+2021-12-12 08:14:53 INFO  Log:32 - Clicking on element for object: homeScreen
+2021-12-12 08:14:53 INFO  Log:32 - Waiting visibility of element for object: actionOnClickBtn
+2021-12-12 08:14:54 INFO  Log:32 - Clicking on element for object: actionOnClickBtn
+2021-12-12 08:14:54 INFO  Log:32 - Getting list of elements for object: radioList
+2021-12-12 08:14:55 INFO  Log:32 - Reading list of elements, list is: [None, Home, Recent applications, Pull down notification, Device settings, Selected application, [Experimental] Back, [PRO] Screenshot, [PRO] Lock the screen, [PRO] Quick settings, [PRO] Power menu]
+2021-12-12 08:14:55 INFO  Log:32 - *** Executed secondTest test successfully ***
+2021-12-12 08:14:55 INFO  Log:32 - Stopped recording and clip is downloaded
+2021-12-12 08:14:59 INFO  Log:32 - *** Running test method thirdTest ***
+2021-12-12 08:15:00 INFO  Log:32 - Started recording
+2021-12-12 08:15:00 INFO  Log:16 - ****************************************************************************************
+2021-12-12 08:15:00 INFO  Log:18 - ****************************************************************************************
+2021-12-12 08:15:00 INFO  Log:20 - $$$$  Scroll down to the bottom and uncheck the show notification checkbox $$$$
+2021-12-12 08:15:00 INFO  Log:22 - ****************************************************************************************
+2021-12-12 08:15:00 INFO  Log:24 - ****************************************************************************************
+2021-12-12 08:15:00 INFO  Log:32 - Waiting visibility of element for object: homeScreen
+2021-12-12 08:15:00 INFO  Log:32 - Clicking on element for object: homeScreen
+2021-12-12 08:15:04 INFO  Log:32 - Scrolling till element is visible for object: showNotificationLbl
+2021-12-12 08:15:04 INFO  Log:32 - Waiting visibility of element for object: notificationCheckBox
+2021-12-12 08:15:04 INFO  Log:32 - Clicking on element for object: notificationCheckBox
+2021-12-12 08:15:05 INFO  Log:32 - Getting selected attribute for object: notificationCheckBox
+2021-12-12 08:15:05 INFO  Log:32 - *** Executed thirdTest test successfully ***
+2021-12-12 08:15:06 INFO  Log:32 - Stopped recording and clip is downloaded
+2021-12-12 08:15:09 INFO  Log:32 - *** Running test method fourthTest ***
+2021-12-12 08:15:10 INFO  Log:32 - Started recording
+2021-12-12 08:15:10 INFO  Log:16 - ****************************************************************************************
+2021-12-12 08:15:10 INFO  Log:18 - ****************************************************************************************
+2021-12-12 08:15:10 INFO  Log:20 - $$$$  Select Vibration Strength under behavior and set the vibration strength to 100 $$$$
+2021-12-12 08:15:10 INFO  Log:22 - ****************************************************************************************
+2021-12-12 08:15:10 INFO  Log:24 - ****************************************************************************************
+2021-12-12 08:15:11 INFO  Log:32 - Waiting visibility of element for object: homeScreen
+2021-12-12 08:15:11 INFO  Log:32 - Clicking on element for object: homeScreen
+2021-12-12 08:15:14 INFO  Log:32 - Scrolling till element is visible for object: vibrationStrengthLbl
+2021-12-12 08:15:14 INFO  Log:32 - Waiting visibility of element for object: vibrationStrengthBtn
+2021-12-12 08:15:14 INFO  Log:32 - Clicking on element for object: vibrationStrengthBtn
+2021-12-12 08:15:15 INFO  Log:32 - Waiting visibility of element for object: seekBar
+2021-12-12 08:15:15 INFO  Log:32 - Seekbar start point is: 296
+2021-12-12 08:15:15 INFO  Log:32 - Seekbar end point is: 1143
+2021-12-12 08:15:15 INFO  Log:32 - Seekbar vertical location is: 1259
+2021-12-12 08:15:17 INFO  Log:32 - Moving seek bar at 1143 In X direction for object: seekBar
+2021-12-12 08:15:18 INFO  Log:32 - Waiting visibility of element for object: okBtn
+2021-12-12 08:15:18 INFO  Log:32 - Clicking on element for object: okBtn
+2021-12-12 08:15:19 INFO  Log:32 - Waiting visibility of element for object: seekBarValue
+2021-12-12 08:15:19 INFO  Log:32 - Getting text attribute for object: seekBarValue
+2021-12-12 08:15:19 INFO  Log:32 - *** Executed fourthTest test successfully ***
+2021-12-12 08:15:20 INFO  Log:32 - Stopped recording and clip is downloaded
+2021-12-12 08:15:24 INFO  Log:32 - *** Running test method fifthTest ***
+2021-12-12 08:15:25 INFO  Log:32 - Started recording
+2021-12-12 08:15:25 INFO  Log:16 - ****************************************************************************************
+2021-12-12 08:15:25 INFO  Log:18 - ****************************************************************************************
+2021-12-12 08:15:25 INFO  Log:20 - $$$$  Select button color under appearance and select violet color $$$$
+2021-12-12 08:15:25 INFO  Log:22 - ****************************************************************************************
+2021-12-12 08:15:25 INFO  Log:24 - ****************************************************************************************
+2021-12-12 08:15:25 INFO  Log:32 - Waiting visibility of element for object: homeScreen
+2021-12-12 08:15:25 INFO  Log:32 - Clicking on element for object: homeScreen
+2021-12-12 08:15:25 INFO  Log:32 - Waiting visibility of element for object: ButtonColorBtn
+2021-12-12 08:15:25 INFO  Log:32 - Clicking on element for object: ButtonColorBtn
+2021-12-12 08:15:26 INFO  Log:32 - Clicking on element for object: violetColor
+2021-12-12 08:15:27 INFO  Log:32 - Element is displayed for object: ButtonColorBtn
+2021-12-12 08:15:27 INFO  Log:32 - *** Executed fifthTest test successfully ***
+2021-12-12 08:15:28 INFO  Log:32 - Stopped recording and clip is downloaded
+2021-12-12 08:15:33 INFO  Log:32 - *** Test Suite Rain ending ***
+2021-12-12 08:17:42 INFO  Log:32 - *** Test Suite Rain started ***
+2021-12-12 08:17:52 INFO  Log:32 - Object repo loaded
+2021-12-12 08:17:53 INFO  Log:32 - *** Running test method firstTest ***
+2021-12-12 08:17:53 INFO  Log:32 - Started recording
+2021-12-12 08:17:53 INFO  Log:16 - ****************************************************************************************
+2021-12-12 08:17:53 INFO  Log:18 - ****************************************************************************************
+2021-12-12 08:17:53 INFO  Log:20 - $$$$  Complete all the steps when launching the app for the first time and navigate to the Dashboard $$$$
+2021-12-12 08:17:53 INFO  Log:22 - ****************************************************************************************
+2021-12-12 08:17:53 INFO  Log:24 - ****************************************************************************************
+2021-12-12 08:17:54 INFO  Log:32 - Waiting visibility of element for object: homeScreen
+2021-12-12 08:17:54 INFO  Log:32 - Clicking on element for object: homeScreen
+2021-12-12 08:17:54 INFO  Log:32 - Element is displayed for object: centerIcon
+2021-12-12 08:17:54 INFO  Log:32 - *** Executed firstTest test successfully ***
+2021-12-12 08:17:56 INFO  Log:32 - Stopped recording and clip is downloaded
+2021-12-12 08:17:59 INFO  Log:32 - *** Running test method secondTest ***
+2021-12-12 08:18:00 INFO  Log:32 - Started recording
+2021-12-12 08:18:00 INFO  Log:16 - ****************************************************************************************
+2021-12-12 08:18:00 INFO  Log:18 - ****************************************************************************************
+2021-12-12 08:18:00 INFO  Log:20 - $$$$  Select Action on click under Actions and print all the elements in the radio selection list view $$$$
+2021-12-12 08:18:00 INFO  Log:22 - ****************************************************************************************
+2021-12-12 08:18:00 INFO  Log:24 - ****************************************************************************************
+2021-12-12 08:18:01 INFO  Log:32 - Waiting visibility of element for object: homeScreen
+2021-12-12 08:18:01 INFO  Log:32 - Clicking on element for object: homeScreen
+2021-12-12 08:18:01 INFO  Log:32 - Waiting visibility of element for object: actionOnClickBtn
+2021-12-12 08:18:01 INFO  Log:32 - Clicking on element for object: actionOnClickBtn
+2021-12-12 08:18:02 INFO  Log:32 - Getting list of elements for object: radioList
+2021-12-12 08:18:02 INFO  Log:32 - Reading list of elements, list is: [None, Home, Recent applications, Pull down notification, Device settings, Selected application, [Experimental] Back, [PRO] Screenshot, [PRO] Lock the screen, [PRO] Quick settings, [PRO] Power menu]
+2021-12-12 08:18:02 INFO  Log:32 - *** Executed secondTest test successfully ***
+2021-12-12 08:18:03 INFO  Log:32 - Stopped recording and clip is downloaded
+2021-12-12 08:18:07 INFO  Log:32 - *** Running test method thirdTest ***
+2021-12-12 08:18:08 INFO  Log:32 - Started recording
+2021-12-12 08:18:08 INFO  Log:16 - ****************************************************************************************
+2021-12-12 08:18:08 INFO  Log:18 - ****************************************************************************************
+2021-12-12 08:18:08 INFO  Log:20 - $$$$  Scroll down to the bottom and uncheck the show notification checkbox $$$$
+2021-12-12 08:18:08 INFO  Log:22 - ****************************************************************************************
+2021-12-12 08:18:08 INFO  Log:24 - ****************************************************************************************
+2021-12-12 08:18:08 INFO  Log:32 - Waiting visibility of element for object: homeScreen
+2021-12-12 08:18:09 INFO  Log:32 - Clicking on element for object: homeScreen
+2021-12-12 08:18:12 INFO  Log:32 - Scrolling till element is visible for object: showNotificationLbl
+2021-12-12 08:18:12 INFO  Log:32 - Waiting visibility of element for object: notificationCheckBox
+2021-12-12 08:18:13 INFO  Log:32 - Clicking on element for object: notificationCheckBox
+2021-12-12 08:18:13 INFO  Log:32 - Getting selected attribute for object: notificationCheckBox
+2021-12-12 08:18:13 INFO  Log:32 - *** Executed thirdTest test successfully ***
+2021-12-12 08:18:15 INFO  Log:32 - Stopped recording and clip is downloaded
+2021-12-12 08:18:19 INFO  Log:32 - *** Running test method fourthTest ***
+2021-12-12 08:18:20 INFO  Log:32 - Started recording
+2021-12-12 08:18:20 INFO  Log:16 - ****************************************************************************************
+2021-12-12 08:18:20 INFO  Log:18 - ****************************************************************************************
+2021-12-12 08:18:20 INFO  Log:20 - $$$$  Select Vibration Strength under behavior and set the vibration strength to 100 $$$$
+2021-12-12 08:18:20 INFO  Log:22 - ****************************************************************************************
+2021-12-12 08:18:20 INFO  Log:24 - ****************************************************************************************
+2021-12-12 08:18:20 INFO  Log:32 - Waiting visibility of element for object: homeScreen
+2021-12-12 08:18:21 INFO  Log:32 - Clicking on element for object: homeScreen
+2021-12-12 08:18:24 INFO  Log:32 - Scrolling till element is visible for object: vibrationStrengthLbl
+2021-12-12 08:18:24 INFO  Log:32 - Waiting visibility of element for object: vibrationStrengthBtn
+2021-12-12 08:18:24 INFO  Log:32 - Clicking on element for object: vibrationStrengthBtn
+2021-12-12 08:18:25 INFO  Log:32 - Waiting visibility of element for object: seekBar
+2021-12-12 08:18:25 INFO  Log:32 - Seekbar start point is: 296
+2021-12-12 08:18:25 INFO  Log:32 - Seekbar end point is: 1143
+2021-12-12 08:18:25 INFO  Log:32 - Seekbar vertical location is: 1259
+2021-12-12 08:18:27 INFO  Log:32 - Moving seek bar at 1143 In X direction for object: seekBar
+2021-12-12 08:18:28 INFO  Log:32 - Waiting visibility of element for object: okBtn
+2021-12-12 08:18:28 INFO  Log:32 - Clicking on element for object: okBtn
+2021-12-12 08:18:29 INFO  Log:32 - Waiting visibility of element for object: seekBarValue
+2021-12-12 08:18:29 INFO  Log:32 - Getting text attribute for object: seekBarValue
+2021-12-12 08:18:29 INFO  Log:32 - *** Executed fourthTest test successfully ***
+2021-12-12 08:18:30 INFO  Log:32 - Stopped recording and clip is downloaded
+2021-12-12 08:18:34 INFO  Log:32 - *** Running test method fifthTest ***
+2021-12-12 08:18:35 INFO  Log:32 - Started recording
+2021-12-12 08:18:35 INFO  Log:16 - ****************************************************************************************
+2021-12-12 08:18:35 INFO  Log:18 - ****************************************************************************************
+2021-12-12 08:18:35 INFO  Log:20 - $$$$  Select button color under appearance and select violet color $$$$
+2021-12-12 08:18:35 INFO  Log:22 - ****************************************************************************************
+2021-12-12 08:18:35 INFO  Log:24 - ****************************************************************************************
+2021-12-12 08:18:35 INFO  Log:32 - Waiting visibility of element for object: homeScreen
+2021-12-12 08:18:35 INFO  Log:32 - Clicking on element for object: homeScreen
+2021-12-12 08:18:35 INFO  Log:32 - Waiting visibility of element for object: ButtonColorBtn
+2021-12-12 08:18:35 INFO  Log:32 - Clicking on element for object: ButtonColorBtn
+2021-12-12 08:18:36 INFO  Log:32 - Clicking on element for object: violetColor
+2021-12-12 08:18:37 INFO  Log:32 - Element is displayed for object: ButtonColorBtn
+2021-12-12 08:18:37 INFO  Log:32 - *** Executed fifthTest test successfully ***
+2021-12-12 08:18:39 INFO  Log:32 - Stopped recording and clip is downloaded
+2021-12-12 08:18:44 INFO  Log:32 - *** Test Suite Rain ending ***

@@ -3,12 +3,13 @@ package com.myapplication.utilities;
 import com.relevantcodes.extentreports.LogStatus;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
-import org.openqa.selenium.WebDriver;
+
+import static com.myapplication.engine.BaseTest.driver;
 
 
 public class ScreenshotRobot {
 
-    public static void takeScreenShot(WebDriver driver) {
+    public static void takeScreenShot() {
         try {
             // take base64Screenshot screenshot for extent reports
             String base64Screenshot = "data:image/png;base64," + ((TakesScreenshot) driver).

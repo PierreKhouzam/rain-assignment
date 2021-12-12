@@ -1,6 +1,7 @@
 import com.myapplication.engine.BaseTest;
 import com.myapplication.pages.CenterPage;
 import com.myapplication.utilities.*;
+import com.relevantcodes.extentreports.LogStatus;
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
@@ -11,25 +12,17 @@ public class MyApplicationTest extends BaseTest {
 
     @Test(priority = 1)
     public void firstTest() {
-        ExcelUtils.setExcelFile(Constants.pathTestData + "MyApplicationTCs.xlsx");
         String testCaseName = ExcelUtils.getCellData(1, Constants.colTestCaseName, "TCs");
         String testId = ExcelUtils.getCellData(1, Constants.colTestId, "TCs");
         Log.startTestCase(testCaseName);
         ExtentTestManager.startTest(testId + ":" + testCaseName);
-        VideoRecorder.startRecording(driver);
-        CenterPage centerPage = new CenterPage(driver);
-        centerPage.touchAnyWhere().dashboardIsDisplayed();
+        CenterPage centerPage = new CenterPage();
+        centerPage.touchAnyWhere();
         Boolean dashboardIsDisplayed = centerPage.dashboardIsDisplayed();
-        try {
-            softAssert.assertTrue(dashboardIsDisplayed);
-            softAssert.assertAll();
-            //Extent and log
-        } catch (Exception e) {
-            //Extent and log
-        }
-        ScreenshotRobot.takeScreenShot(driver);
-        VideoRecorder.stopRecording(driver, "TC1Clip.mp4");
-
+        softAssert.assertTrue(dashboardIsDisplayed, "Validate dashboard is displayed -->");
+        softAssert.assertAll();
+        //Report to extent in case assertion passed
+        ExtentTestManager.getTest().log(LogStatus.PASS, "Dashboard is displayed as expected");
     }
 
     @Test(priority = 2)
@@ -38,20 +31,14 @@ public class MyApplicationTest extends BaseTest {
         String testId = ExcelUtils.getCellData(2, Constants.colTestId, "TCs");
         Log.startTestCase(testCaseName);
         ExtentTestManager.startTest(testId + ":" + testCaseName);
-        VideoRecorder.startRecording(driver);
-        CenterPage centerPage = new CenterPage(driver);
+        CenterPage centerPage = new CenterPage();
         centerPage.touchAnyWhere().pressActionOnClick();
         List<String> radioButtonsList = centerPage.readListOfRadioButtons();
         List<String> dataList = ExcelUtils.getAllColumCells(Constants.colRadioButtons, "RadioButtons");
-        try {
-            softAssert.assertEquals(radioButtonsList, dataList);
-            softAssert.assertAll();
-            //Extent and log
-        } catch (Exception e) {
-            //Extent and log
-        }
-        ScreenshotRobot.takeScreenShot(driver);
-        VideoRecorder.stopRecording(driver, "TC2Clip.mp4");
+        softAssert.assertEquals(radioButtonsList, dataList, "Validate radio buttons list matching data list -->");
+        softAssert.assertAll();
+        //Report to extent in case assertion passed
+        ExtentTestManager.getTest().log(LogStatus.PASS, "Radio button list is matching data list as expected");
 
     }
 
@@ -61,19 +48,13 @@ public class MyApplicationTest extends BaseTest {
         String testId = ExcelUtils.getCellData(3, Constants.colTestId, "TCs");
         Log.startTestCase(testCaseName);
         ExtentTestManager.startTest(testId + ":" + testCaseName);
-        VideoRecorder.startRecording(driver);
-        CenterPage centerPage = new CenterPage(driver);
+        CenterPage centerPage = new CenterPage();
         centerPage.touchAnyWhere().scrollTillShowNotificationIsVisible().uncheckNotification();
         String selectedAttributeValue = centerPage.getSelectedAttributeValue();
-        try {
-            softAssert.assertEquals(selectedAttributeValue, "false");
-            softAssert.assertAll();
-            //Extent and log
-        } catch (Exception e) {
-            //Extent and log
-        }
-        ScreenshotRobot.takeScreenShot(driver);
-        VideoRecorder.stopRecording(driver, "TC3Clip.mp4");
+        softAssert.assertEquals(selectedAttributeValue, "false", "Validate notification check box 'selected' attribute is set to false -->");
+        softAssert.assertAll();
+        //Report to extent in case assertion passed
+        ExtentTestManager.getTest().log(LogStatus.PASS, "Notification check box is unselected as expected");
     }
 
     @Test(priority = 4)
@@ -82,36 +63,32 @@ public class MyApplicationTest extends BaseTest {
         String testId = ExcelUtils.getCellData(4, Constants.colTestId, "TCs");
         Log.startTestCase(testCaseName);
         ExtentTestManager.startTest(testId + ":" + testCaseName);
-        VideoRecorder.startRecording(driver);
-        CenterPage centerPage = new CenterPage(driver);
+        CenterPage centerPage = new CenterPage();
         centerPage.touchAnyWhere().scrollTillVibrationStrengthIsVisible().pressOnVibrationStrength().setVibrationStrengthTo100().confirmVibrationStrength();
         String seekBarValue = centerPage.getSeekBarValue();
-        try {
-            softAssert.assertEquals(seekBarValue, "99");
-            softAssert.assertAll();
-            ScreenshotRobot.takeScreenShot(driver);
-            //Extent and log
-        } catch (Exception e) {
-            //Extent and log
-            ScreenshotRobot.takeScreenShot(driver);
-        }
-        VideoRecorder.stopRecording(driver, "TC4Clip.mp4");
+        softAssert.assertEquals(seekBarValue, "100", "Validate seek bar value is 100 -->");
+        softAssert.assertAll();
+        //Report to extent in case assertion passed
+        ExtentTestManager.getTest().log(LogStatus.PASS, "Seek bar value is 100 as expected");
     }
 
-//    @Test(priority = 5)
-//    public void FifthTest() {
-//        String testCaseName = ExcelUtils.getCellData(5, Constants.colTestCaseName, "TCs");
-//        String testId = ExcelUtils.getCellData(5, Constants.colTestId, "TCs");
-//        Log.startTestCase(testCaseName);
-//        ExtentTestManager.startTest(testId + ":" + testCaseName);
-//        VideoRecorder.startRecording(driver);
-//        CenterPage centerPage = new CenterPage(driver);
-//        centerPage.touchAnyWhere().scrollTillShowNotificationIsVisible().uncheckNotification();
-//        VideoRecorder.stopRecording(driver);
-//
-//    }
-
-
+    @Test(priority = 5)
+    public void fifthTest() {
+        //Image color is not supported for native apps by appium!
+        //Accessibility ID is required to identify colors
+        //Violet color element existence assertion is implemented instead
+        String testCaseName = ExcelUtils.getCellData(5, Constants.colTestCaseName, "TCs");
+        String testId = ExcelUtils.getCellData(5, Constants.colTestId, "TCs");
+        Log.startTestCase(testCaseName);
+        ExtentTestManager.startTest(testId + ":" + testCaseName);
+        CenterPage centerPage = new CenterPage();
+        centerPage.touchAnyWhere().pressOnButtonColor().setVioletColor();
+        Boolean violetColorIsDisplayed = centerPage.violetColorIsDisplayed();
+        softAssert.assertTrue(violetColorIsDisplayed, "Validate Violet color is selected -->");
+        softAssert.assertAll();
+        //Report to extent in case assertion passed
+        ExtentTestManager.getTest().log(LogStatus.PASS, "Button color is violet as expected");
+    }
 }
 
 
